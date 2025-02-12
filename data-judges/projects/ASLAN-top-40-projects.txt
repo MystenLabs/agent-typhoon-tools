@@ -1,0 +1,42 @@
+Top 40 Projects - ASLAN
+--------------------------------------------------
+1. WORLD3 - Crystal Caves: 7.25
+2. Robobo: 6.75
+3. Apocalyptic World: 6.00
+4. ASTRA: 5.75
+5. Cyper: 5.75
+6. DeepSynth: 5.50
+7. SuiZa: 5.50
+8. Midas: 5.50
+9. Mitsui Protocol: 5.50
+10. Flyfish agent: 5.50
+11. Foam: 5.25
+12. Suiiii: 5.25
+13. Numeron: 5.25
+14. Multimodal V-Tuber and Desktop Assistant: 5.25
+15. snowfish agent: 5.00
+16. Toby: 5.00
+17. BackHack.dev: 5.00
+18. DexterAI: 5.00
+19. [Alberta] - Cybersecurity AI Assistant: 4.75
+20. FinKeeper: 4.75
+21. Rockee: 4.75
+22. OpenGraph : TensorflowSui: 4.75
+23. DolphAI.xyz: 4.50
+24. Build-A-Bot: Where Life-Long AI Companions Are Made: 4.50
+25. Memento OS: 4.50
+26. H2O Bounty: 4.50
+27. BeforeLife: 4.25
+28. IVAN AI: 4.25
+29. SuiMind: 4.25
+30. Marea AI: 4.00
+31. Atoma Network n8n Community Node Integration: 4.00
+32. sui-agent-kit-pelagosai: 4.00
+33. Dominion Protector: 4.00
+34. NexusAI: 4.00
+35. EverionAI: 4.00
+36. Algonius: 3.75
+37. SUI AI COIN: 3.75
+38. DeepBookAI: 3.75
+39. Suitami: 3.50
+40. The Jokepapa: 3.50

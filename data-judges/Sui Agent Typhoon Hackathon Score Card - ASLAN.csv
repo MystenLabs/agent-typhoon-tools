@@ -1,0 +1,223 @@
+Judge Name:,Aslan Tashtanov,,,,,,,"See criteria descriptions on the right
+--------------> ",Judging Rubric and Descriptions,,,,,,,,,
+Track to Assess:,Defi,,,,,,,,,,,,,,,,,
+Airtable View URL:,,,,,,,,,,,,,,,,,,
+"Project
+Name","Concept /
+Idea
+(0-10)","Technical Functionality and Implementation
+(0-10)","Complexity and sophistication
+(0-10)","Real-world utility and impact
+(0-10)",Sum,"Sum / 
+40",Avg,"Comments / Feedback
+(May be shared with participants)",,Description,,,,Key Questions ,,,,Scoring Suggestions
+Bork Research Institute,6,4,5,7,22.00,55%,5.50,,Creative Innovation and Novelty,"Judges assess the originality, creativity, novelty, and the innovative potential of the idea. Concepts can gain points for being unique, forward-thinking, ambitious, and distinctly original (either within the Sui ecosystem or the broader web3 space). The justification for the concept can be based on creativity, impact, or innovation rather than strictly on business viability.
+
+Teams are evaluated on the strength and uniqueness of their idea rather than its execution or completion.
+
+A strong score in this category can be achieved by excelling in one or more of these areas. An idea does not need to excel across all aspects to score a 10—it simply needs to demonstrate outstanding creativity or originality in some way. For example, a novel approach to gamified education does not need to have widespread real-world impact to score a 10. Similarly, a groundbreaking decentralized art project does not need immediate practical applications to achieve a high score.
+
+
+",,,,"- How original is the idea within the context of the tech industry, web3, and the Sui ecosystem?
+- How well does the team articulate and understand their concept? Is the explanation clear, concise, and well-structured, or does it feel sprawling or disorganized?
+- How thoughtfully crafted is the strategy behind the idea? Is it targeted, ambitious, or well-defined, with a clear direction that the team is pursuing?
+- How much consideration has been given to the business viability of the idea as a product or service?
+- To what extent does the idea account for its position in the Sui ecosystem? Does it leverage composability, interoperability, or other unique ecosystem strengths?
+- What potential social impact could this idea achieve if fully realized? What degree of impact could it have if only partially realized?
+- Finally, what is the overall quality and innovation level of the idea?",,,,"0-3 (poor): The idea lacks originality or is poorly explained. There is minimal innovation, no clear creative strategy, or the concept feels derivative. The arguments might be unconvincing or incoherent, with no meaningful connection to the Sui ecosystem or the broader tech industry.
+"
+PinataAI,5,6,5,6,22.00,55%,5.50,,,,,,,,,,,
+Thoreau SUI-DCA Plugin,3,4,4,3,14.00,35%,3.50,,,,,,,,,,,
+WebLiza,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Algonius,3,4,4,4,15.00,38%,3.75,,,,,,,,,,,"3-6 (mediocre): The idea shows some originality or creativity but lacks clarity, focus, or depth. Key components may be underdeveloped or not fully justified, and the team may struggle to demonstrate a cohesive strategy or vision. The idea may consider the Sui ecosystem or web3 but does so in a limited or unconvincing manner.
+"
+Robobo,7,7,7,6,27.00,68%,6.75,,,,,,,,,,,
+@elizaos/plugin-sui,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Huggo,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Blockvestify,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,"7-9 (good): The idea is original, thoughtfully articulated, and demonstrates clear creative innovation. The team has a coherent strategy and can explain the concept with clarity and depth. It shows consideration of its role in the Sui ecosystem, along with potential real-world relevance. While not all aspects are exceptional, the idea displays a strong level of creativity and novelty."
+TardAInators,4,4,3,2,13.00,33%,3.25,,,,,,,,,,,
+KOI POOL,3,3,3,2,11.00,28%,2.75,,,,,,,,,,,
+Suia,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Chura Garden Agent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,"10 (exceeding): The idea is highly innovative, groundbreaking, or exceptionally creative. It demonstrates an original approach that is either bold or highly refined, with clear potential for significant impact in the Sui ecosystem or the broader web3 landscape. Not all aspects need to excel, but the concept must display remarkable quality in creativity or innovation that justifies a perfect score."
+Geri Gonslur,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+The First AI Life,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Bullcast: AI-driven bullish price prediction for next-gen DeFAI automation. 🚀,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+muse-poet,0,0,0,0,0.00,0%,0.00,,Technical Functionality and Implementation,"Judges will evaluate the agent's concept and implementation, focusing on the quality of execution, functionality, and overall usability. This category assesses how well the technical aspects of the agent have been implemented, including its performance, design quality, and reliability. While not all factors are required for a top score, exceptional technical execution or a seamless user interaction experience can significantly enhance the score.
+The completeness and sophistication of the implementation of the project. How much of the project is implemented? How much of the implementation is correct? How innovative is the usage of Sui features? While functionality and technical correctness are important, an agent with a well-crafted interface or an elegantly designed interaction flow can score highly, even if some technical components are incomplete or experimental.                                                                                                                                                                                                                                                                        ",,,,"- To what extent has the idea been executed? Does the product resemble a basic prototype, a minimum viable product (MVP), a polished version 1.0, or a highly refined and optimized solution?
+- How well-designed is the agent? Is it engaging? Does the implementation with Sui enhance the overall experience and make the product enjoyable to use?
+- How functional is the agent?
+- Was there creative usage towards the functionality of the agent and the technical involvement?",,,,"0-3 (poor): No agent has been developed, or the agent is minimally functional or incomplete. It does not perform its intended tasks effectively, and there is no clear effort toward usability or interaction design.
+"
+TBD,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Dynamic NFT Companion Agent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+CAiTH,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,"3-6 (mediocre): The agent is functional but lacks polish or usability, making it difficult or frustrating to interact with. There may be some effort in crafting interactions or user flows, but these decisions are ineffective or incomplete. The agent feels more like a proof of concept than a fully realized system. It performs basic tasks but lacks depth or reliability.
+"
+Apocalyptic World,6,5,6,7,24.00,60%,6.00,,,,,,,,,,,
+snowfish agent,6,4,4,6,20.00,50%,5.00,,,,,,,,,,,
+AIMI CLUB,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,"7-9 (good): The agent is well-designed, user-friendly, and functional. It delivers on its core promises effectively, though there may be minor issues such as occasional errors, incomplete workflows, or missing features. The interaction design and user experience are intentional and cohesive, though not necessarily groundbreaking.
+"
+E4C - Nana AI Esports Buddy,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+DeepSynth,4,7,5,6,22.00,55%,5.50,,,,,,,,,,,
+SuiGuard: AI-Powered Security Agent for NFT Scam Detection,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,"10 (exceeding): An exceeding agent is a highly refined system that operates seamlessly and provides a delightful interaction experience. Its functionality is robust, its interface is thoughtfully designed, and its usability is a pleasure. The agent feels polished and complete, with potential for significant real-world impact or user adoption. It represents everything an agent should aspire to be.
+"
+Toby,4,5,5,6,20.00,50%,5.00,,,,,,,,,,,
+[Alberta] - Cybersecurity AI Assistant,4,5,5,5,19.00,48%,4.75,,,,,,,,,,,
+Imagine NFT | AI-Powered NFT Creation & Marketplace,3,3,3,2,11.00,28%,2.75,,Solution complexity and sophistication,"Judges assess the completeness and sophistication of the implementation of the agent. How much of the functionality is implemented? How correct is the implementation? How innovative is the usage of Sui features within the agent?
+
+Teams are judged on the technical implementation of the agent, as distinct from the concept or user experience. While usability and interface design are relevant in other categories, this section focuses on the technical execution. For example, a well-coded agent that effectively leverages Sui’s unique features, such as composability or low latency, would score higher than one with a basic or generic implementation.
+
+Agents should have a roughly complete and correct implementation to achieve a top score, but innovation in using Sui-specific features can further elevate the score. This could include leveraging Sui’s object composability, Move language capabilities, zkSend, dynamic fields, or designing for Sui’s low gas fees, high throughput, and low latency. An agent that goes beyond basic functionality to creatively integrate these features demonstrates strong technical sophistication.",,,,"- How much of the agent’s functionality is completed?
+- What is the overall code quality of the implementation?
+- How correct and reliable is the implementation? Are there any obvious bugs or errors in the final version?
+- How “finished” and maintainable is the agent? Could it be further developed or scaled with ease?
+- Has the agent effectively leveraged Sui’s unique features to create capabilities that are only possible on Sui? Examples include object composability, dynamic fields, zkSend, or low-latency/high-throughput design.",,,,"0-3 (poor): A poor technical implementation is absent, completely incorrect, or critically broken. Core agent workflows do not function as intended. There is minimal or no testing, code quality is abysmal, and maintenance is either nonexistent or infeasible."
+Sui Story,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+WORLD3 - Crystal Caves,7,8,7,7,29.00,73%,7.25,,,,,,,,,,,"3-6 (mediocre): A mediocre technical implementation works, but with significant limitations. Core agent functionality exists but may be partially broken or implemented poorly. Some workflows may not function, and the implementation may be overly buggy or lack maintainability. An agent that minimally uses Sui features without innovation, or mimics standard approaches without leveraging Sui’s unique capabilities, falls into this category.
+"
+Courtroom Simulator,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiSound,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Suikai,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Project Deceit,4,3,3,3,13.00,33%,3.25,,,,,,,,,,,
+@suiware/ai-tools,4,3,3,3,13.00,33%,3.25,,,,,,,,,,,"6-9 (good): A good technical implementation works well, with minor or rare bugs. The agent adheres to Sui conventions and best practices, with reasonable code quality and sufficient testing. Testing processes are automated, and the implementation demonstrates signs of maintainability. Clever or innovative use of Sui’s unique features, such as dynamic fields or zkSend, can elevate an otherwise standard implementation to this level. 
+"
+Boris Boarman,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Token Tails,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiZa,6,5,5,6,22.00,55%,5.50,,,,,,,,,,,
+Groq Agents,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+DeFiLink,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+AgentFAI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,"10 (exceeding): An exceptional technical implementation is elegant, thoroughly tested, fully documented, and easy to maintain. The agent leverages Sui’s unique capabilities in creative ways that go beyond standard approaches, potentially showcasing use cases that even the ecosystem’s creators may not have anticipated. A truly exceeding implementation blends technical brilliance with innovation, setting a benchmark for quality and creativity.
+"
+Marea AI,4,4,4,4,16.00,40%,4.00,,,,,,,,,,,
+Ragen,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+AgentiPy,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+FinKeeper,4,5,5,5,19.00,48%,4.75,,Real-world utility and impact,"Judges assess the real-world utility and potential impact of the agent. How effectively does the agent address a meaningful problem? How relevant is the agent’s functionality in real-world scenarios? How well does it create tangible value for users or ecosystems?
+
+Teams are judged on the agent's ability to provide a practical, scalable, and impactful solution. While technical implementation is considered in other categories, this section focuses on the real-world implications and benefits of the agent. For example, an agent that solves a widespread pain point or offers innovative solutions with clear utility would score higher than one with limited or niche use cases.
+
+Agents should demonstrate a clear understanding of the problem they aim to solve and their broader implications for users or systems. Amplify their real-world relevance can elevate the score. An agent that aligns strongly with user needs while showcasing significant potential for adoption and scalability represents strong real-world utility and impact.",,,,"- At a high level, how effectively does this agent address real-world needs or challenges?
+- Are there unique factors or attributes not captured in other criteria that significantly enhance the agent’s utility or merit?
+- Does the agent integrate multiple aspects of functionality, design, or innovation in a way that strengthens its overall utility and impact?
+- How scalable and adaptable is the agent for broader use cases or future development?
+- How well does the agent balance technical innovation with practical, real-world application?",,,,"0-3 (poor): The agent has minimal or no real-world utility. It fails to address any meaningful problem or provide tangible value. The concept may lack scalability, clear use cases, or practical applications, and it doesn’t leverage Sui’s unique features in a meaningful way."
+MemeX,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Suitami,3,3,4,4,14.00,35%,3.50,,,,,,,,,,,"3-6 (mediocre): The agent shows some potential for real-world utility but is limited in its scope, execution, or relevance. It may address a minor problem or niche use case but lacks scalability or broader applicability. While there may be some use of Sui’s features, it is either superficial or underwhelming."
+Midas,4,7,5,6,22.00,55%,5.50,,,,,,,,,,,
+DolphAI.xyz,4,6,4,4,18.00,45%,4.50,,,,,,,,,,,
+[Alberta] - Cybersecurity AI Assistant,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Passive Income Asset Management AI Agent by Jugemu.ai,3,3,3,3,12.00,30%,3.00,,,,,,,,,,,
+SUIRISE,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,"6-9 (good): The agent demonstrates clear real-world utility and effectively addresses a meaningful problem. It is scalable and relevant, with strong potential for adoption in the Sui ecosystem or beyond. The agent leverages Sui’s unique features, such as composability or low-latency design, in a thoughtful way to enhance its impact."
+BeforeLife,4,5,5,3,17.00,43%,4.25,,,,,,,,,,,
+neonet ai,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Fenz.AI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+BackHack.dev,5,5,4,6,20.00,50%,5.00,,,,,,,,,,,
+topkio.rs,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+PelicanBot,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,"10 (exceeding): The agent is a game-changing solution with exceptional real-world utility and impact. It addresses a significant problem or creates entirely new opportunities in a way that is scalable, relevant, and innovative. The agent fully capitalizes on Sui’s unique capabilities to deliver value that would be impossible otherwise. It sets a benchmark for what agents can achieve, with extraordinary potential for adoption and influence."
+Highland,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+tukidrop,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+BlackSquid: Jumping,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Expuzi™,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiRichGuruAgent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Eliza Notary,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Foam,5,6,5,5,21.00,53%,5.25,,,,,,,,,,,
+sui-agent-kit,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Indra,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiHubAI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+🤖 Ava the Portfolio Managing AI Agent,4,3,3,3,13.00,33%,3.25,,,,,,,,,,,
+Build-A-Bot: Where Life-Long AI Companions Are Made,5,5,4,4,18.00,45%,4.50,,,,,,,,,,,
+Trackit,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Tizzle,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+AlphaSniffer,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Atoma Network n8n Community Node Integration,4,4,3,5,16.00,40%,4.00,,,,,,,,,,,
+SUI AI Agent kit,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Life Vacation,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Right community,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Egg AI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+7K LP AI Agent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Amored,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Mint AI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Atoma Dreams,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+DeepEyes - AI Agent Platform,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+sui-agent-kit-pelagosai,4,4,4,4,16.00,40%,4.00,,,,,,,,,,,
+tai-shang-ai-saas-system,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+IVAN AI,4,5,4,4,17.00,43%,4.25,,,,,,,,,,,
+SUI AI COIN,4,4,4,3,15.00,38%,3.75,,,,,,,,,,,
+Anemone framework,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiAutoFi,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+yiuoouoii,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Nixora,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Sui Light Agent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+DeCeek,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+ASTRA,6,7,5,5,23.00,58%,5.75,,,,,,,,,,,
+Fate3AI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiMind,4,5,4,4,17.00,43%,4.25,,,,,,,,,,,
+Sui Earn,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+MonoQuery,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+5son,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+TrenchesAI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Meow Star,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Cyper,5,6,6,6,23.00,58%,5.75,,,,,,,,,,,
+EpicVerse,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SUI Roast Agent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Dominion Protector,5,3,3,5,16.00,40%,4.00,,,,,,,,,,,
+Memento OS,4,5,5,4,18.00,45%,4.50,,,,,,,,,,,
+@elizaos/plugin-navi,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Rivals AI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Humour9X,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Saito AI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+The Jokepapa,4,4,3,3,14.00,35%,3.50,,,,,,,,,,,
+FungIPle,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+pyano.fun,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+CyreneAI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SavageX,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+eliza-sui-news,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Suiiii,5,6,5,5,21.00,53%,5.25,,,,,,,,,,,
+NexusAI,4,4,4,4,16.00,40%,4.00,,,,,,,,,,,
+VCMilei,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+RinAI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+EverionAI,4,5,3,4,16.00,40%,4.00,,,,,,,,,,,
+Liquid Agent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+HealthGuard AI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+H2O Bounty,5,4,4,5,18.00,45%,4.50,,,,,,,,,,,
+Agent Builder,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+DeepBookAI,4,4,4,3,15.00,38%,3.75,,,,,,,,,,,
+Xfinder,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Mitsui Protocol,5,6,6,5,22.00,55%,5.50,,,,,,,,,,,
+Fair Square,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+ArtChain AI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Sui AI Image Generator & NFT Minter,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Numeron,5,6,5,5,21.00,53%,5.25,,,,,,,,,,,
+suicasm,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiSpark,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Sui Portfolio Analysis Agent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Five Realms,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Ephemeral,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Poink chat,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+LegalShieldAI,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Rockee,4,7,4,4,19.00,48%,4.75,,,,,,,,,,,
+Flyfish agent,6,6,5,5,22.00,55%,5.50,,,,,,,,,,,
+Matrix,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+NextGenius AI Agent,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Yamaswap,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+AtomaQuiz,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Defai Office,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Space Paws Mini-game: Wolf Game,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Vulkan,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Aiko,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+sui-agent (Zoe + Sui Agent Tools),0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Multimodal V-Tuber and Desktop Assistant,5,6,5,5,21.00,53%,5.25,,,,,,,,,,,
+DexterAI,5,5,5,5,20.00,50%,5.00,,,,,,,,,,,
+DrPhil,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Matchfluence,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Sui Agent Typhoon,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Eliza-NAVI-Trading,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Fourier,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Colossuium,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Synapse Wealth,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+RIFT,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+AnnotaLens,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+OpenGraph : TensorflowSui,5,4,5,5,19.00,48%,4.75,,,,,,,,,,,
+Bluefin Eliza OS Plugin,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiDefiMadeEasy,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Rugged-Club,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+SuiMate Universe AI Agents: AIdeniyi + SuiTrivia + SuiTipper,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
+Sentient.ai,0,0,0,0,0.00,0%,0.00,,,,,,,,,,,
