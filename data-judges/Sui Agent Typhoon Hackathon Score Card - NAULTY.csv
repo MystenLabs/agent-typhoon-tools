@@ -1,0 +1,223 @@
+Judge Name:,John Doe,,,,,,,"See criteria descriptions on the right
+--------------> ",Judging Rubric and Descriptions,,,,,,,,,
+Track to Assess:,Defi,,,,,,,,,,,,,,,,,
+Airtable View URL:,,,,,,,,,,,,,,,,,,
+"Project
+Name","Concept /
+Idea
+(0-10)","Technical Functionality and Implementation
+(0-10)","Complexity and sophistication
+(0-10)","Real-world utility and impact
+(0-10)",Sum,"Sum / 
+40",Avg,"Comments / Feedback
+(May be shared with participants)",,Description,,,,Key Questions ,,,,Scoring Suggestions
+Bork Research Institute,7,4,4,5,20.00,50%,5.00,"Personal Defi Dashboard is nice, but execution wasn't there",Creative Innovation and Novelty,"Judges assess the originality, creativity, novelty, and the innovative potential of the idea. Concepts can gain points for being unique, forward-thinking, ambitious, and distinctly original (either within the Sui ecosystem or the broader web3 space). The justification for the concept can be based on creativity, impact, or innovation rather than strictly on business viability.
+
+Teams are evaluated on the strength and uniqueness of their idea rather than its execution or completion.
+
+A strong score in this category can be achieved by excelling in one or more of these areas. An idea does not need to excel across all aspects to score a 10—it simply needs to demonstrate outstanding creativity or originality in some way. For example, a novel approach to gamified education does not need to have widespread real-world impact to score a 10. Similarly, a groundbreaking decentralized art project does not need immediate practical applications to achieve a high score.
+
+
+",,,,"- How original is the idea within the context of the tech industry, web3, and the Sui ecosystem?
+- How well does the team articulate and understand their concept? Is the explanation clear, concise, and well-structured, or does it feel sprawling or disorganized?
+- How thoughtfully crafted is the strategy behind the idea? Is it targeted, ambitious, or well-defined, with a clear direction that the team is pursuing?
+- How much consideration has been given to the business viability of the idea as a product or service?
+- To what extent does the idea account for its position in the Sui ecosystem? Does it leverage composability, interoperability, or other unique ecosystem strengths?
+- What potential social impact could this idea achieve if fully realized? What degree of impact could it have if only partially realized?
+- Finally, what is the overall quality and innovation level of the idea?",,,,"0-3 (poor): The idea lacks originality or is poorly explained. There is minimal innovation, no clear creative strategy, or the concept feels derivative. The arguments might be unconvincing or incoherent, with no meaningful connection to the Sui ecosystem or the broader tech industry.
+"
+PinataAI,8,8,8,7,31.00,78%,7.75,"The project is impressive, and they did a lot of work to make it usable for this hackathon (based on their github activity). This also has deep programmability with Walrus",,,,,,,,,,
+Thoreau SUI-DCA Plugin,7,8,7,6,28.00,70%,7.00,Quirky Presentation -- but great showcase to DCA'ing with Aftermath. Code seems clean on first review.,,,,,,,,,,
+WebLiza,0,0,0,0,0.00,0%,0.00,No Code. Demo is not that great. will ask for code on discord,,,,,,,,,,
+Algonius,7,6,4,5,22.00,55%,5.50,Twitter Account created in Nov 2024. Fresh GH account created in Jan. Very clean anon behind this project. Did Solana in 2024 base on their docs https://algonius.gitbook.io/algonius ,,,,,,,,,,"3-6 (mediocre): The idea shows some originality or creativity but lacks clarity, focus, or depth. Key components may be underdeveloped or not fully justified, and the team may struggle to demonstrate a cohesive strategy or vision. The idea may consider the Sui ecosystem or web3 but does so in a limited or unconvincing manner.
+"
+Robobo,7,8,6,6,27.00,68%,6.75,"Love Video Games. ""Pet"" robot fighting game. Kind of unique. Testing it out, it was connectedto an AI, but still kind of hard to figure out + play. Also, not sure what transactions were actually happening on chain (logged in with Sui Web Wallet okay, but everything else was seamless or empty).",,,,,,,,,,
+@elizaos/plugin-sui,0,0,0,0,0.00,0%,0.00,Nothing Burger,,,,,,,,,,
+Huggo,0,0,0,0,0.00,0%,0.00,"Hmm, links to Aide Ink -- not sure here",,,,,,,,,,
+Blockvestify,4,4,4,4,16.00,40%,4.00,"Demo not very good, simple eliza plugin",,,,,,,,,,"7-9 (good): The idea is original, thoughtfully articulated, and demonstrates clear creative innovation. The team has a coherent strategy and can explain the concept with clarity and depth. It shows consideration of its role in the Sui ecosystem, along with potential real-world relevance. While not all aspects are exceptional, the idea displays a strong level of creativity and novelty."
+TardAInators,4,7,7,5,23.00,58%,5.75,Liked the presentation. The tech is fun (telegram + twitter eliza agents). But the value add was mostly in the demo video and eliza characters files,,,,,,,,,,
+KOI POOL,7,6,6,6,25.00,63%,6.25,"Presentation was okay. There was a lot of code, but the website doesn't show it all. Need to dive into the move code to see what's going on. For now, it seems like a frontend hooked into Atoma",,,,,,,,,,
+Suia,2,3,4,3,12.00,30%,3.00,Didn't work for me on devnet. Curious to know what the AI plug is...,,,,,,,,,,
+Chura Garden Agent,3,4,4,3,14.00,35%,3.50,"using ipfs for nft :) -- the project is supposed to show atoma-agent working, but doesn't do a great job at that, because atoma agents seems broken?",,,,,,,,,,"10 (exceeding): The idea is highly innovative, groundbreaking, or exceptionally creative. It demonstrates an original approach that is either bold or highly refined, with clear potential for significant impact in the Sui ecosystem or the broader web3 landscape. Not all aspects need to excel, but the concept must display remarkable quality in creativity or innovation that justifies a perfect score."
+Geri Gonslur,0,0,0,0,0.00,0%,0.00,Nothing Burger,,,,,,,,,,
+The First AI Life,0,0,0,0,0.00,0%,0.00,"Trippy, but somehow not related to Sui...",,,,,,,,,,
+Bullcast: AI-driven bullish price prediction for next-gen DeFAI automation. 🚀,7,7,7,6,27.00,68%,6.75,very clean demo of AI assisted trading with bluefin.,,,,,,,,,,
+muse-poet,5,5,6,6,22.00,55%,5.50,Mint NFT with Eliza -- but uses IPFS instead of Walrus,Technical Functionality and Implementation,"Judges will evaluate the agent's concept and implementation, focusing on the quality of execution, functionality, and overall usability. This category assesses how well the technical aspects of the agent have been implemented, including its performance, design quality, and reliability. While not all factors are required for a top score, exceptional technical execution or a seamless user interaction experience can significantly enhance the score.
+The completeness and sophistication of the implementation of the project. How much of the project is implemented? How much of the implementation is correct? How innovative is the usage of Sui features? While functionality and technical correctness are important, an agent with a well-crafted interface or an elegantly designed interaction flow can score highly, even if some technical components are incomplete or experimental.                                                                                                                                                                                                                                                                        ",,,,"- To what extent has the idea been executed? Does the product resemble a basic prototype, a minimum viable product (MVP), a polished version 1.0, or a highly refined and optimized solution?
+- How well-designed is the agent? Is it engaging? Does the implementation with Sui enhance the overall experience and make the product enjoyable to use?
+- How functional is the agent?
+- Was there creative usage towards the functionality of the agent and the technical involvement?",,,,"0-3 (poor): No agent has been developed, or the agent is minimally functional or incomplete. It does not perform its intended tasks effectively, and there is no clear effort toward usability or interaction design.
+"
+TBD,0,0,0,0,0.00,0%,0.00,Nothing Burger,,,,,,,,,,
+Dynamic NFT Companion Agent,7,8,7,6,28.00,70%,7.00,ZkLogin is nice. Cool demo with dynamic NFTs on Sui and interacting with AI to play the game.,,,,,,,,,,
+CAiTH,0,0,0,0,0.00,0%,0.00,No Sui,,,,,,,,,,"3-6 (mediocre): The agent is functional but lacks polish or usability, making it difficult or frustrating to interact with. There may be some effort in crafting interactions or user flows, but these decisions are ineffective or incomplete. The agent feels more like a proof of concept than a fully realized system. It performs basic tasks but lacks depth or reliability.
+"
+Apocalyptic World,9,8,8,7,32.00,80%,8.00,"Wow--it works on testnet, and has a cool interface. Great Game. Uses Walrus. https://walruscan.com/testnet/blob/6IRdNs6MWWjJOZqGkQsb45Td5YXem_-jBc1evKpMhls",,,,,,,,,,
+snowfish agent,8,8,9,8,33.00,83%,8.25,"vey cool move package tooling, including exploring on-chain packages",,,,,,,,,,
+AIMI CLUB,0,0,0,0,0.00,0%,0.00,N/A,,,,,,,,,,"7-9 (good): The agent is well-designed, user-friendly, and functional. It delivers on its core promises effectively, though there may be minor issues such as occasional errors, incomplete workflows, or missing features. The interaction design and user experience are intentional and cohesive, though not necessarily groundbreaking.
+"
+E4C - Nana AI Esports Buddy,0,0,0,0,0.00,0%,0.00,No Sui,,,,,,,,,,
+DeepSynth,7,4,6,7,24.00,60%,6.00,"NLP on-chain actions. wants to connect with X account :thinking. I see their defi-integration repo has all the sui stuff, but it is not clear how that gets plugged into their frontend / core. ",,,,,,,,,,
+SuiGuard: AI-Powered Security Agent for NFT Scam Detection,4,4,4,6,18.00,45%,4.50,Like the idea -- execution is poor,,,,,,,,,,"10 (exceeding): An exceeding agent is a highly refined system that operates seamlessly and provides a delightful interaction experience. Its functionality is robust, its interface is thoughtfully designed, and its usability is a pleasure. The agent feels polished and complete, with potential for significant real-world impact or user adoption. It represents everything an agent should aspire to be.
+"
+Toby,7,7,7,7,28.00,70%,7.00,adds defiLamaPlugin and extends SuiPlugin -- LP Management Agent ,,,,,,,,,,
+[Alberta] - Cybersecurity AI Assistant,7,6,6,7,26.00,65%,6.50,Web2 Security Agent that uses Eliza (with Atoma). Could see this getting plugged into shodan and being even more useful,,,,,,,,,,
+Imagine NFT | AI-Powered NFT Creation & Marketplace,5,5,5,5,20.00,50%,5.00,NFT Minting with AI-generated content. Tried on testnet but couldn't get it to work. Not using walrus though,Solution complexity and sophistication,"Judges assess the completeness and sophistication of the implementation of the agent. How much of the functionality is implemented? How correct is the implementation? How innovative is the usage of Sui features within the agent?
+
+Teams are judged on the technical implementation of the agent, as distinct from the concept or user experience. While usability and interface design are relevant in other categories, this section focuses on the technical execution. For example, a well-coded agent that effectively leverages Sui’s unique features, such as composability or low latency, would score higher than one with a basic or generic implementation.
+
+Agents should have a roughly complete and correct implementation to achieve a top score, but innovation in using Sui-specific features can further elevate the score. This could include leveraging Sui’s object composability, Move language capabilities, zkSend, dynamic fields, or designing for Sui’s low gas fees, high throughput, and low latency. An agent that goes beyond basic functionality to creatively integrate these features demonstrates strong technical sophistication.",,,,"- How much of the agent’s functionality is completed?
+- What is the overall code quality of the implementation?
+- How correct and reliable is the implementation? Are there any obvious bugs or errors in the final version?
+- How “finished” and maintainable is the agent? Could it be further developed or scaled with ease?
+- Has the agent effectively leveraged Sui’s unique features to create capabilities that are only possible on Sui? Examples include object composability, dynamic fields, zkSend, or low-latency/high-throughput design.",,,,"0-3 (poor): A poor technical implementation is absent, completely incorrect, or critically broken. Core agent workflows do not function as intended. There is minimal or no testing, code quality is abysmal, and maintenance is either nonexistent or infeasible."
+Sui Story,5,4,4,4,17.00,43%,4.25,"Use IPFS, not super advanced. Like the idea, but execution is poort",,,,,,,,,,
+WORLD3 - Crystal Caves,1,1,1,1,4.00,10%,1.00,Doesn't seem strongly sui related--just a grab-all (already has other chains supported...not very interesting for us),,,,,,,,,,"3-6 (mediocre): A mediocre technical implementation works, but with significant limitations. Core agent functionality exists but may be partially broken or implemented poorly. Some workflows may not function, and the implementation may be overly buggy or lack maintainability. An agent that minimally uses Sui features without innovation, or mimics standard approaches without leveraging Sui’s unique capabilities, falls into this category.
+"
+Courtroom Simulator,6,6,5,5,22.00,55%,5.50,Novel Idea -- execution from demo seems okay -- very loosely involvs Sui,,,,,,,,,,
+SuiSound,7,6,6,5,24.00,60%,6.00,can't transact for some reason -- but seems like an interesting idea,,,,,,,,,,
+Suikai,7,7,7,7,28.00,70%,7.00,cool dashboard -- code does pull info from various sources and has ability to use Atoma,,,,,,,,,,
+Project Deceit,7,8,7,7,29.00,73%,7.25,"play now' / 'play on walrus site' :heart-eyes: -- fun game, and props for using walrus!",,,,,,,,,,
+@suiware/ai-tools,9,7,7,8,31.00,78%,7.75,Strong + simple tool framework for SDK compatible with Vercel AI tooling. Great initiative,,,,,,,,,,"6-9 (good): A good technical implementation works well, with minor or rare bugs. The agent adheres to Sui conventions and best practices, with reasonable code quality and sufficient testing. Testing processes are automated, and the implementation demonstrates signs of maintainability. Clever or innovative use of Sui’s unique features, such as dynamic fields or zkSend, can elevate an otherwise standard implementation to this level. 
+"
+Boris Boarman,4,5,5,4,18.00,45%,4.50,"A lot going on here, but not clean from a user perspective (google login, then wallet connect, then what??)",,,,,,,,,,
+Token Tails,3,3,3,3,12.00,30%,3.00,old project -- not a lot to see.,,,,,,,,,,
+SuiZa,7,5,6,6,24.00,60%,6.00,Fitness Sui AI Agent. Interesting -- tech didn't work when i tried (couldn't launch agent),,,,,,,,,,
+Groq Agents,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+DeFiLink,4,4,4,4,16.00,40%,4.00,Navi integration whatsapp integration. Kind of flaky demo. Minimal code,,,,,,,,,,
+AgentFAI,6,6,7,6,25.00,63%,6.25,demo works! cool defi AI assistance. somehow connected to raidenx,,,,,,,,,,"10 (exceeding): An exceptional technical implementation is elegant, thoroughly tested, fully documented, and easy to maintain. The agent leverages Sui’s unique capabilities in creative ways that go beyond standard approaches, potentially showcasing use cases that even the ecosystem’s creators may not have anticipated. A truly exceeding implementation blends technical brilliance with innovation, setting a benchmark for quality and creativity.
+"
+Marea AI,6,7,7,6,26.00,65%,6.50,"sad, github repo isn't public. going to see if they'll make it public. includes zklogin",,,,,,,,,,
+Ragen,0,0,0,0,0.00,0%,0.00,no code. Seems like app isn't that useful anyways,,,,,,,,,,
+AgentiPy,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+FinKeeper,6,5,6,6,23.00,58%,5.75,hmm--wants me to login with TElegram. Then i can 'do things...,Real-world utility and impact,"Judges assess the real-world utility and potential impact of the agent. How effectively does the agent address a meaningful problem? How relevant is the agent’s functionality in real-world scenarios? How well does it create tangible value for users or ecosystems?
+
+Teams are judged on the agent's ability to provide a practical, scalable, and impactful solution. While technical implementation is considered in other categories, this section focuses on the real-world implications and benefits of the agent. For example, an agent that solves a widespread pain point or offers innovative solutions with clear utility would score higher than one with limited or niche use cases.
+
+Agents should demonstrate a clear understanding of the problem they aim to solve and their broader implications for users or systems. Amplify their real-world relevance can elevate the score. An agent that aligns strongly with user needs while showcasing significant potential for adoption and scalability represents strong real-world utility and impact.",,,,"- At a high level, how effectively does this agent address real-world needs or challenges?
+- Are there unique factors or attributes not captured in other criteria that significantly enhance the agent’s utility or merit?
+- Does the agent integrate multiple aspects of functionality, design, or innovation in a way that strengthens its overall utility and impact?
+- How scalable and adaptable is the agent for broader use cases or future development?
+- How well does the agent balance technical innovation with practical, real-world application?",,,,"0-3 (poor): The agent has minimal or no real-world utility. It fails to address any meaningful problem or provide tangible value. The concept may lack scalability, clear use cases, or practical applications, and it doesn’t leverage Sui’s unique features in a meaningful way."
+MemeX,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+Suitami,7,5,6,5,23.00,58%,5.75,"probably should have told folks to not have demos on mainnet...overall, seems like a cool app (but not very usable w/out mainnet coins...)",,,,,,,,,,"3-6 (mediocre): The agent shows some potential for real-world utility but is limited in its scope, execution, or relevance. It may address a minor problem or niche use case but lacks scalability or broader applicability. While there may be some use of Sui’s features, it is either superficial or underwhelming."
+Midas,7,6,6,6,25.00,63%,6.25,"seems fancy -- code is availble. dashboards are nice, and integrates sui-actions with AI",,,,,,,,,,
+DolphAI.xyz,6,5,6,6,23.00,58%,5.75,not a lot of AI integrated right now--but fancy dashboard,,,,,,,,,,
+[Alberta] - Cybersecurity AI Assistant,0,0,0,0,0.00,0%,0.00,duplicate,,,,,,,,,,
+Passive Income Asset Management AI Agent by Jugemu.ai,6,5,4,4,19.00,48%,4.75,suilend eliza intregration. Simple demo,,,,,,,,,,
+SUIRISE,3,3,3,3,12.00,30%,3.00,"there's a lot here, but it doesn't seem coherent",,,,,,,,,,"6-9 (good): The agent demonstrates clear real-world utility and effectively addresses a meaningful problem. It is scalable and relevant, with strong potential for adoption in the Sui ecosystem or beyond. The agent leverages Sui’s unique features, such as composability or low-latency design, in a thoughtful way to enhance its impact."
+BeforeLife,7,7,7,7,28.00,70%,7.00,cool interface for a game. virtual counselor in a bar (bartenders are professional counselors),,,,,,,,,,
+neonet ai,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+Fenz.AI,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+BackHack.dev,9,8,8,7,32.00,80%,8.00,betting on hackathon -- this is legit a fun project. tangentially ai related -- but still really novel idea.,,,,,,,,,,
+topkio.rs,6,4,4,5,19.00,48%,4.75,minimal rust lib for atoma agents,,,,,,,,,,
+PelicanBot,0,0,0,0,0.00,0%,0.00,No code,,,,,,,,,,"10 (exceeding): The agent is a game-changing solution with exceptional real-world utility and impact. It addresses a significant problem or creates entirely new opportunities in a way that is scalable, relevant, and innovative. The agent fully capitalizes on Sui’s unique capabilities to deliver value that would be impossible otherwise. It sets a benchmark for what agents can achieve, with extraordinary potential for adoption and influence."
+Highland,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+tukidrop,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+BlackSquid: Jumping,3,3,3,3,12.00,30%,3.00,kind of lame game.,,,,,,,,,,
+Expuzi™,3,3,3,3,12.00,30%,3.00,no demo video. source is kind of all over the place. app didn't work for me,,,,,,,,,,
+SuiRichGuruAgent,4,4,4,4,16.00,40%,4.00,demo not very clear. eliza plugin of some sort.,,,,,,,,,,
+Eliza Notary,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+Foam,7,7,7,7,28.00,70%,7.00,"sophisticated agent app. wasn't able to transfer sui for me, but seems like the underlying tech is sophisticated. only a portion of the code is open source",,,,,,,,,,
+sui-agent-kit,6,6,6,6,24.00,60%,6.00,"agent toolkit, but kind of basic. ",,,,,,,,,,
+Indra,0,0,0,0,0.00,0%,0.00,not eligible (3 moths old),,,,,,,,,,
+SuiHubAI,7,5,5,6,23.00,58%,5.75,create AI agents. still not sure what the big sui plug is (i guess agents get a sui address). requires lots of user setup (e.g. openai api key),,,,,,,,,,
+🤖 Ava the Portfolio Managing AI Agent,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+Build-A-Bot: Where Life-Long AI Companions Are Made,7,7,8,7,29.00,73%,7.25,"uploads to walrus, modules for AI agents, interesting + innovative",,,,,,,,,,
+Trackit,3,3,3,3,12.00,30%,3.00,"hard to tell from the demo what's going on. app didn't work, code looks meh",,,,,,,,,,
+Tizzle,6,5,5,5,21.00,53%,5.25,"3d agent, seems cool + innovative. test works. but not specialized for sui",,,,,,,,,,
+AlphaSniffer,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+Atoma Network n8n Community Node Integration,8,6,6,8,28.00,70%,7.00,adds atoma integration into n8n; this kind of plugin is very cool imo,,,,,,,,,,
+SUI AI Agent kit,5,5,5,5,20.00,50%,5.00,"nice interface, couldn't get it to deploy a coin though",,,,,,,,,,
+Life Vacation,1,1,1,1,4.00,10%,1.00,not sure,,,,,,,,,,
+Right community,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+Egg AI,0,0,0,0,0.00,0%,0.00,nice interface. I hate telegram login through. not sui ,,,,,,,,,,
+7K LP AI Agent,5,5,5,5,20.00,50%,5.00,basic,,,,,,,,,,
+Amored,0,0,0,0,0.00,0%,0.00,no github,,,,,,,,,,
+Mint AI,6,7,6,5,24.00,60%,6.00,"uploads images to walrus pretty easily: uAbp4-qH5KCROVuziWZ0MkGm6ibN8YZv8S_7xe7xeQ4, zklogin, basic design though",,,,,,,,,,
+Atoma Dreams,0,0,0,0,0.00,0%,0.00,not much,,,,,,,,,,
+DeepEyes - AI Agent Platform,0,0,0,0,0.00,0%,0.00,too old,,,,,,,,,,
+sui-agent-kit-pelagosai,7,7,7,7,28.00,70%,7.00,"toolkits are nice, this one hit up the community early and is trying to build momentum",,,,,,,,,,
+tai-shang-ai-saas-system,0,0,0,0,0.00,0%,0.00,too old,,,,,,,,,,
+IVAN AI,7,6,6,6,25.00,63%,6.25,AI defi helper,,,,,,,,,,
+SUI AI COIN,7,7,7,7,28.00,70%,7.00,clanker clone! and it works!!! https://testnet.suivision.xyz/coin/0xe377654cdb9b54ccbd9eb57622081ad5e98c47cd3f596c0c03a53c4195f4a1c2::frogbanj::FROGBANJ,,,,,,,,,,
+Anemone framework,6,4,4,4,18.00,45%,4.50,almost DQ'ing because of the demo video voice...,,,,,,,,,,
+SuiAutoFi,4,4,4,4,16.00,40%,4.00,suilend integration -- but no demo makes it hard to judge,,,,,,,,,,
+yiuoouoii,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+Nixora,7,7,7,7,28.00,70%,7.00,very sleek interface. love this app feel,,,,,,,,,,
+Sui Light Agent,2,3,3,3,11.00,28%,2.75,simple / boring,,,,,,,,,,
+DeCeek,0,0,0,0,0.00,0%,0.00,no sui?,,,,,,,,,,
+ASTRA,7,8,7,6,28.00,70%,7.00,AI + Games + Sui is a great service; uses Atoma,,,,,,,,,,
+Fate3AI,6,5,5,5,21.00,53%,5.25,divination game with AI,,,,,,,,,,
+SuiMind,7,7,6,6,26.00,65%,6.50,clean eliza plugin,,,,,,,,,,
+Sui Earn,3,3,3,3,12.00,30%,3.00,not very ai related,,,,,,,,,,
+MonoQuery,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+5son,2,2,2,2,8.00,20%,2.00,shares contract code but nothing else.,,,,,,,,,,
+TrenchesAI,6,6,6,6,24.00,60%,6.00,clanker bot -- simple + clean execution,,,,,,,,,,
+Meow Star,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+Cyper,7,7,6,6,26.00,65%,6.50,"zklogin, social network (content creation with genai)",,,,,,,,,,
+EpicVerse,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+SUI Roast Agent,5,5,5,5,20.00,50%,5.00,"fun, but not super useful",,,,,,,,,,
+Dominion Protector,9,8,9,9,35.00,88%,8.75,cool! shared object scam prevention. very cool tooling ,,,,,,,,,,
+Memento OS,7,7,6,6,26.00,65%,6.50,integrates walrus storage; great UI,,,,,,,,,,
+@elizaos/plugin-navi,7,7,6,6,26.00,65%,6.50,navi plugin,,,,,,,,,,
+Rivals AI,2,2,2,2,8.00,20%,2.00,angst. UK football stuff,,,,,,,,,,
+Humour9X,1,1,1,1,4.00,10%,1.00,not even using sui-plugin :upside-down smiles:,,,,,,,,,,
+Saito AI,0,0,0,0,0.00,0%,0.00,old project -- not a lot to see.,,,,,,,,,,
+The Jokepapa,7,6,6,7,26.00,65%,6.50,dad jokes on-chain using eliza + walrus + fun/silly is good,,,,,,,,,,
+FungIPle,2,2,2,2,8.00,20%,2.00,UI is cool -- but don't quite get the sui connect,,,,,,,,,,
+pyano.fun,2,2,2,2,8.00,20%,2.00,atoma example--not super impressive though--not even sure they're using atoma,,,,,,,,,,
+CyreneAI,0,0,0,0,0.00,0%,0.00,not sure it's working (site down). also very unclear how track tech is leveraged,,,,,,,,,,
+SavageX,0,0,0,0,0.00,0%,0.00,roast as a service' -- humor -- private repos linked as submodules,,,,,,,,,,
+eliza-sui-news,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+Suiiii,9,9,8,8,34.00,85%,8.50,props to this project -- really like the markdown 'notebook' style interface. AIM is really cool. so clean: https://github.com/microchipgnu/sui-aim/tree/main?tab=readme-ov-file#sui-ecosystem-tools ,,,,,,,,,,
+NexusAI,8,7,8,8,31.00,78%,7.75,seems like a complete solution on top of atoma agents. site is down though,,,,,,,,,,
+VCMilei,8,8,9,8,33.00,83%,8.25,complete multi-agent setup for a VC -- has Solana + Sui integration (multi-chain),,,,,,,,,,
+RinAI,2,2,2,2,8.00,20%,2.00,"uses Atoma for llm also says things are 'private', but private to who? can't send SUI or anything really agentic other than get price feed. seems like this project already existed and was just modestly modified to use atoma...",,,,,,,,,,
+EverionAI,8,8,8,8,32.00,80%,8.00,great example of building on top of eliza -- might be best eliza implementation so far,,,,,,,,,,
+Liquid Agent,0,0,0,0,0.00,0%,0.00,no github,,,,,,,,,,
+HealthGuard AI,9,3,3,8,23.00,58%,5.75,like the idea of this. uses atoma. ,,,,,,,,,,
+H2O Bounty,7,7,6,7,27.00,68%,6.75,I like bounty projects! not sure if it works though :thinking:,,,,,,,,,,
+Agent Builder,9,7,7,8,31.00,78%,7.75,OSS contributions as hackathon project -- this should be eligible for $$$ imo,,,,,,,,,,
+DeepBookAI,8,6,6,7,27.00,68%,6.75,lots of work buildingout Deepbook tooling. it's a shame they didn't do this as an eliza plugin. eligible for atoma though,,,,,,,,,,
+Xfinder,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+Mitsui Protocol,10,9,9,8,36.00,90%,9.00,tauri :heart-emoji: + sui + atoma + dashboard,,,,,,,,,,
+Fair Square,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+ArtChain AI,3,4,4,4,15.00,38%,3.75,"couldn't generate art when i tried. seems like a good idea, but not super innovative",,,,,,,,,,
+Sui AI Image Generator & NFT Minter,2,2,2,2,8.00,20%,2.00,didn't work for me -- but similar in theory to the last one without hte bells + whistles,,,,,,,,,,
+Numeron,7,6,5,6,24.00,60%,6.00,"if legit, it's prettycool! ",,,,,,,,,,
+suicasm,6,4,4,5,19.00,48%,4.75,couldn't use because wallet blocked it :thinking: seems fun though,,,,,,,,,,
+SuiSpark,9,7,7,7,30.00,75%,7.50,"Like Block Tank (shark tank) -- AI DAO driven grants, cool concept",,,,,,,,,,
+Sui Portfolio Analysis Agent,6,5,5,5,21.00,53%,5.25,simple implementation but not bad,,,,,,,,,,
+Five Realms,2,2,2,2,8.00,20%,2.00,cool game -- but not plugged into sui other than login :thinking:,,,,,,,,,,
+Ephemeral,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+Poink chat,0,0,0,0,0.00,0%,0.00,no repo,,,,,,,,,,
+LegalShieldAI,0,0,0,0,0.00,0%,0.00,no sui,,,,,,,,,,
+Rockee,7,7,7,7,28.00,70%,7.00,very fun interface for defai stuff,,,,,,,,,,
+Flyfish agent,7,7,7,7,28.00,70%,7.00,good suilend implementation with eliza + atoma. also a pretty good presentation,,,,,,,,,,
+Matrix,4,4,4,4,16.00,40%,4.00,"interesting UI, but demo wasn't usable ",,,,,,,,,,
+NextGenius AI Agent,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+Yamaswap,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+AtomaQuiz,2,2,2,2,8.00,20%,2.00,"not move smart contract, but still uses atoma",,,,,,,,,,
+Defai Office,0,0,0,0,0.00,0%,0.00,Nothing Burger,,,,,,,,,,
+Space Paws Mini-game: Wolf Game,6,6,6,6,24.00,60%,6.00,game -- uses atoma + walrus,,,,,,,,,,
+Vulkan,6,6,6,6,24.00,60%,6.00,defi ai agent walrus site,,,,,,,,,,
+Aiko,1,1,1,1,4.00,10%,1.00,says it uses atoma but couldn't find where. don't see any sui libs used either,,,,,,,,,,
+sui-agent (Zoe + Sui Agent Tools),7,7,6,6,26.00,65%,6.50,"demo video was awesome walkthrough of the two things built, toolkit + zoe (agent framework)",,,,,,,,,,
+Multimodal V-Tuber and Desktop Assistant,0,0,0,0,0.00,0%,0.00,"2nd 'RIN' project? just goes to show you how easy Atoma is to 'plug + play'. also, great demo with the TTS. Seems like a growing youtuber creator. Wonder if they will continue exploring Sui?",,,,,,,,,,
+DexterAI,8,8,8,7,31.00,78%,7.75,clean demo; clean code; chat history stored + fetched in walrus; ,,,,,,,,,,
+DrPhil,2,2,2,2,8.00,20%,2.00,"Implementation is weak; AI Agents becoming doctors...this is going to be a common theme (therapists/counsellor/coaches, etc).",,,,,,,,,,
+Matchfluence,0,0,0,0,0.00,0%,0.00,demo is great; doesn't seem to be connected to atoma or sui though.,,,,,,,,,,
+Sui Agent Typhoon,0,0,0,0,0.00,0%,0.00,private repo,,,,,,,,,,
+Eliza-NAVI-Trading,6,6,5,5,22.00,55%,5.50,"As the name suggests, provides Navi Integration with Eliza; good docs + demo",,,,,,,,,,
+Fourier,8,4,6,6,24.00,60%,6.00,"discord app to create invoice/payment links (first one this hackathon, i believe); good demo; doesn't seem code complete, but the 'payment link' flow from discord is fun",,,,,,,,,,
+Colossuium,2,2,2,2,8.00,20%,2.00,Cool game; doesn't seem plugged into Sui yet (but seems doable); don't see the atoma connect in their source code :thinking:,,,,,,,,,,
+Synapse Wealth,0,0,0,0,0.00,0%,0.00,demo was...not worth the time it took to watch it;,,,,,,,,,,
+RIFT,8,6,8,6,28.00,70%,7.00,"db creds in public, has move code, but seems not to have 'pokemon' metadata, i guess that's WIP; seems like you can battle on 'atoma agents' duking it out in some cyberbattle.",,,,,,,,,,
+AnnotaLens,9,4,7,9,29.00,73%,7.25,"novel project, human-feedback is critical for 'quality data'; gamifying this is a great product--imagine if solving captchas actually helped humanity?  This dev has an interesting set of repos -- lots of activity starting Nov 2024 to a few days ago. big question marks here???",,,,,,,,,,
+OpenGraph : TensorflowSui,10,8,8,10,36.00,90%,9.00,"legit demo; legit project; architecture diagram is very spot on; too bad it's a video of a video (where the code/terminal demo is separate .mp4; they have a lot going on, i wish it was more focused",,,,,,,,,,
+Bluefin Eliza OS Plugin,7,8,7,7,29.00,73%,7.25,very complete bluefin Eliza Plugin; great docs; great demo,,,,,,,,,,
+SuiDefiMadeEasy,0,0,0,0,0.00,0%,0.00,no code,,,,,,,,,,
+Rugged-Club,8,8,7,7,30.00,75%,7.50,awesome style; complete demo; code looks good; can it do sui actions? multichain (solana support); very cool infusion,,,,,,,,,,
+SuiMate Universe AI Agents: AIdeniyi + SuiTrivia + SuiTipper,9,5,6,6,26.00,65%,6.50,cool purpose; great agent name; fun eliza project that helps educate people; not so sure about 'open google spreadsheet' for trivia (would be fun to have web3 storing trivia; first demo to show atoma verification logs; sui tipper + gift drop is kind of an old project and I don't think it's open source;,,,,,,,,,,
+Sentient.ai,7,5,6,6,24.00,60%,6.00,"hardcoded private keys?; This might have some cool trading strategies, but needs to get sanitized first; doesn't use atoma",,,,,,,,,,

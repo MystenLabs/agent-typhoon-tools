@@ -1,0 +1,42 @@
+Top 40 Projects - NAULTY
+--------------------------------------------------
+1. Mitsui Protocol: 9.00
+2. OpenGraph : TensorflowSui: 9.00
+3. Dominion Protector: 8.75
+4. Suiiii: 8.50
+5. snowfish agent: 8.25
+6. VCMilei: 8.25
+7. Apocalyptic World: 8.00
+8. BackHack.dev: 8.00
+9. EverionAI: 8.00
+10. @suiware/ai-tools: 7.75
+11. NexusAI: 7.75
+12. Agent Builder: 7.75
+13. DexterAI: 7.75
+14. SuiSpark: 7.50
+15. Rugged-Club: 7.50
+16. Build-A-Bot: Where Life-Long AI Companions Are Made: 7.25
+17. AnnotaLens: 7.25
+18. Bluefin Eliza OS Plugin: 7.25
+19. Dynamic NFT Companion Agent: 7.00
+20. Toby: 7.00
+21. Suikai: 7.00
+22. BeforeLife: 7.00
+23. Foam: 7.00
+24. Atoma Network n8n Community Node Integration: 7.00
+25. sui-agent-kit-pelagosai: 7.00
+26. SUI AI COIN: 7.00
+27. Nixora: 7.00
+28. ASTRA: 7.00
+29. Rockee: 7.00
+30. Flyfish agent: 7.00
+31. RIFT: 7.00
+32. Robobo: 6.75
+33. Bullcast: AI-driven bullish price prediction for next-gen DeFAI automation. 🚀: 6.75
+34. H2O Bounty: 6.75
+35. DeepBookAI: 6.75
+36. [Alberta] - Cybersecurity AI Assistant: 6.50
+37. Marea AI: 6.50
+38. SuiMind: 6.50
+39. Cyper: 6.50
+40. Memento OS: 6.50

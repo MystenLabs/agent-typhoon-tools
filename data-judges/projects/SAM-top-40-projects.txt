@@ -1,0 +1,42 @@
+Top 40 Projects - SAM
+--------------------------------------------------
+1. BeforeLife: 8.00
+2. sui-agent-kit: 8.00
+3. Atoma Network n8n Community Node Integration: 8.00
+4. Dominion Protector: 8.00
+5. Memento OS: 8.00
+6. pyano.fun: 8.00
+7. Robobo: 5.00
+8. Bullcast: AI-driven bullish price prediction for next-gen DeFAI automation. 🚀: 5.00
+9. Apocalyptic World: 5.00
+10. snowfish agent: 5.00
+11. DeepSynth: 5.00
+12. Toby: 5.00
+13. SuiSound: 5.00
+14. @suiware/ai-tools: 5.00
+15. Boris Boarman: 5.00
+16. DeFiLink: 5.00
+17. BackHack.dev: 5.00
+18. Build-A-Bot: Where Life-Long AI Companions Are Made: 5.00
+19. sui-agent-kit-pelagosai: 5.00
+20. IVAN AI: 5.00
+21. SUI AI COIN: 5.00
+22. Anemone framework: 5.00
+23. SuiAutoFi: 5.00
+24. SuiMind: 5.00
+25. 5son: 5.00
+26. TrenchesAI: 5.00
+27. @elizaos/plugin-navi: 5.00
+28. The Jokepapa: 5.00
+29. Suiiii: 5.00
+30. NexusAI: 5.00
+31. H2O Bounty: 5.00
+32. Agent Builder: 5.00
+33. DeepBookAI: 5.00
+34. Mitsui Protocol: 5.00
+35. Numeron: 5.00
+36. suicasm: 5.00
+37. Multimodal V-Tuber and Desktop Assistant: 5.00
+38. DexterAI: 5.00
+39. Eliza-NAVI-Trading: 5.00
+40. RIFT: 5.00

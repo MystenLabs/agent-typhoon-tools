@@ -1,0 +1,42 @@
+Top 40 Projects - JOSE
+--------------------------------------------------
+1. Atoma Network n8n Community Node Integration: 7.75
+2. BeforeLife: 7.50
+3. Dominion Protector: 7.50
+4. Numeron: 7.25
+5. Multimodal V-Tuber and Desktop Assistant: 7.25
+6. Memento OS: 7.00
+7. OpenGraph : TensorflowSui: 7.00
+8. snowfish agent: 6.75
+9. Mitsui Protocol: 6.75
+10. SuiZa: 6.50
+11. sui-agent (Zoe + Sui Agent Tools): 6.50
+12. SUI AI Agent kit: 6.25
+13. Apocalyptic World: 6.00
+14. DeepSynth: 6.00
+15. BackHack.dev: 6.00
+16. sui-agent-kit: 6.00
+17. Suiiii: 6.00
+18. SuiMate Universe AI Agents: AIdeniyi + SuiTrivia + SuiTipper: 6.00
+19. Dynamic NFT Companion Agent: 5.75
+20. Build-A-Bot: Where Life-Long AI Companions Are Made: 5.75
+21. Robobo: 5.50
+22. Toby: 5.50
+23. DeepBookAI: 5.50
+24. [Alberta] - Cybersecurity AI Assistant: 5.25
+25. The Jokepapa: 5.25
+26. Rockee: 5.25
+27. DeFiLink: 5.00
+28. FinKeeper: 5.00
+29. SUI AI COIN: 5.00
+30. pyano.fun: 5.00
+31. NexusAI: 5.00
+32. H2O Bounty: 5.00
+33. Agent Builder: 5.00
+34. DexterAI: 5.00
+35. Bluefin Eliza OS Plugin: 5.00
+36. WORLD3 - Crystal Caves: 4.75
+37. SuiMind: 4.75
+38. Space Paws Mini-game: Wolf Game: 4.75
+39. sui-agent-kit-pelagosai: 4.50
+40. TrenchesAI: 4.50
