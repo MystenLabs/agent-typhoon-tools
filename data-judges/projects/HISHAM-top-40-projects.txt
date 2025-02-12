@@ -14,27 +14,27 @@ Top 40 Projects - HISHAM
 12. RIFT: 7.50
 13. Dynamic NFT Companion Agent: 7.25
 14. snowfish agent: 7.25
-15. Foam: 7.25
-16. Build-A-Bot: Where Life-Long AI Companions Are Made: 7.25
-17. Atoma Network n8n Community Node Integration: 7.25
-18. sui-agent-kit-pelagosai: 7.25
-19. ASTRA: 7.25
-20. Memento OS: 7.25
-21. Suiiii: 7.25
-22. SuiSpark: 7.25
-23. Rockee: 7.25
-24. Apocalyptic World: 7.00
-25. @suiware/ai-tools: 7.00
-26. Midas: 7.00
-27. HealthGuard AI: 7.00
-28. DeepBookAI: 7.00
-29. Flyfish agent: 7.00
-30. Fourier: 7.00
-31. Bluefin Eliza OS Plugin: 7.00
-32. SuiMate Universe AI Agents: AIdeniyi + SuiTrivia + SuiTipper: 7.00
-33. Robobo: 6.75
-34. Suikai: 6.75
-35. Marea AI: 6.75
+15. Marea AI: 7.25
+16. Foam: 7.25
+17. Build-A-Bot: Where Life-Long AI Companions Are Made: 7.25
+18. Atoma Network n8n Community Node Integration: 7.25
+19. sui-agent-kit-pelagosai: 7.25
+20. ASTRA: 7.25
+21. Memento OS: 7.25
+22. Suiiii: 7.25
+23. SuiSpark: 7.25
+24. Rockee: 7.25
+25. Apocalyptic World: 7.00
+26. @suiware/ai-tools: 7.00
+27. Midas: 7.00
+28. HealthGuard AI: 7.00
+29. DeepBookAI: 7.00
+30. Flyfish agent: 7.00
+31. Fourier: 7.00
+32. Bluefin Eliza OS Plugin: 7.00
+33. SuiMate Universe AI Agents: AIdeniyi + SuiTrivia + SuiTipper: 7.00
+34. Robobo: 6.75
+35. Suikai: 6.75
 36. VCMilei: 6.75
 37. AnnotaLens: 6.75
 38. Bullcast: AI-driven bullish price prediction for next-gen DeFAI automation. 🚀: 6.50

@@ -1,0 +1,42 @@
+Top 40 Projects - DIMITRIS
+--------------------------------------------------
+1. OpenGraph : TensorflowSui: 8.50
+2. Apocalyptic World: 8.25
+3. snowfish agent: 8.25
+4. Dominion Protector: 8.25
+5. Robobo: 8.00
+6. Build-A-Bot: Where Life-Long AI Companions Are Made: 7.75
+7. Memento OS: 7.75
+8. Agent Builder: 7.75
+9. Suikai: 7.50
+10. Boris Boarman: 7.50
+11. BackHack.dev: 7.50
+12. Suiiii: 7.50
+13. Mitsui Protocol: 7.50
+14. Rockee: 7.50
+15. DexterAI: 7.50
+16. SuiZa: 7.25
+17. sui-agent-kit-pelagosai: 7.25
+18. Dynamic NFT Companion Agent: 7.00
+19. SuiGuard: AI-Powered Security Agent for NFT Scam Detection: 7.00
+20. SUI AI COIN: 7.00
+21. SuiMind: 7.00
+22. NexusAI: 7.00
+23. DeepBookAI: 7.00
+24. Sui Story: 6.75
+25. Marea AI: 6.75
+26. Atoma Network n8n Community Node Integration: 6.75
+27. Toby: 6.50
+28. @suiware/ai-tools: 6.50
+29. AgentFAI: 6.50
+30. Bullcast: AI-driven bullish price prediction for next-gen DeFAI automation. 🚀: 6.25
+31. DeepSynth: 6.25
+32. SuiSound: 6.25
+33. @elizaos/plugin-navi: 6.25
+34. The Jokepapa: 6.25
+35. TardAInators: 6.00
+36. [Alberta] - Cybersecurity AI Assistant: 6.00
+37. Imagine NFT | AI-Powered NFT Creation & Marketplace: 6.00
+38. BeforeLife: 6.00
+39. Algonius: 5.75
+40. Courtroom Simulator: 5.75
