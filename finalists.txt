@@ -1,5 +1,4 @@
 Apocalyptic World
-Atoma Network n8n Community Node Integration
 Build-A-Bot
 DeepBookAI
 Dominion Protector
@@ -10,25 +9,34 @@ Suiiii
 snowfish agent
 sui-agent-kit-pelagosai
 Agent Builder
+Atoma Network n8n Community Node Integration
 BackHack.dev
-BeforeLife
+Bullcast
+DeepSynth
 DexterAI
 OpenGraph
 Robobo
 Rockee
 SUI AI COIN
 SuiMind
+ASTRA
+BeforeLife
+Flyfish agent
+H2O Bounty
 Toby
 [Alberta] - Cybersecurity AI Assistant
 @suiware/ai-tools
-H2O Bounty
-Marea AI
-The Jokepapa
-ASTRA
-Bullcast
-DeepSynth
+Cyper
 Dynamic NFT Companion Agent
-Flyfish agent
+EverionAI
+Foam
+IVAN AI
+Marea AI
+Nixora
 Numeron
+RIFT
+SuiSpark
 SuiZa
 Suikai
+The Jokepapa
+VCMilei
