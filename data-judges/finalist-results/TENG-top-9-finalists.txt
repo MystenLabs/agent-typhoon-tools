@@ -1,0 +1,11 @@
+Top 9 Finalist Projects - TENG
+--------------------------------------------------
+1. Agent Builder / 🤖 Ava the Portfolio Managing AI Agent: 30.0%
+2. OpenGraph : TensorflowSui: 30.0%
+3. Mitsui Protocol: 29.0%
+4. Marea AI: 28.0%
+5. Build-A-Bot: Where Life-Long AI Companions Are Made: 28.0%
+6. DeepSynth: 27.0%
+7. Bullcast: AI-driven bullish price prediction for next-gen DeFAI automation. 🚀: 26.0%
+8. Foam: 26.0%
+9. Rockee: 26.0%

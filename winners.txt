@@ -1,0 +1,19 @@
+  8. BackHack.dev: 4/10 judges (40.0%) (atoma)
+
+Eliza
+1. Build-A-Bot: 7/10 judges (70.0%) (eliza)
+2. Mitsui Protocol: 7/10 judges (70.0%) (atoma + eliza)
+3. [Alberta] - Cybersecurity AI Assistant: 4/10 judges (40.0%) (eliza)
+
+
+Atoma
+
+1. Apocalyptic World: 5/10 judges (50.0%)
+2. Memento OS: 4/10 judges (40.0%) (Atoma)
+3. Atoma Network n8n Community Node Integration: 5/10 judges (50.0%)
+
+Sui
+
+1. OpenGraph: 7/10 judges (70.0%)
+2. Dominion Protector: 6/10 judges (60.0%) (atoma)
+3. Suiiii: 7/10 judges (70.0%)

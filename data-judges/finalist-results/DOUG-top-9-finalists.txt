@@ -1,0 +1,11 @@
+Top 9 Finalist Projects - DOUG
+--------------------------------------------------
+1. OpenGraph : TensorflowSui: 36.0%
+2. BackHack.dev: 32.0%
+3. Mitsui Protocol: 32.0%
+4. Dominion Protector: 32.0%
+5. EverionAI: 32.0%
+6. Flyfish agent: 32.0%
+7. Suiiii: 31.0%
+8. [Alberta] - Cybersecurity AI Assistant: 30.0%
+9. ASTRA: 30.0%

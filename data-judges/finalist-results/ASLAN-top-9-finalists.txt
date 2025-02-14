@@ -1,0 +1,11 @@
+Top 9 Finalist Projects - ASLAN
+--------------------------------------------------
+1. ASTRA: 30.0%
+2. Mitsui Protocol: 28.0%
+3. DexterAI: 27.0%
+4. Foam: 26.0%
+5. SuiZa: 25.0%
+6. BackHack.dev: 24.0%
+7. Robobo: 22.0%
+8. OpenGraph : TensorflowSui: 22.0%
+9. Apocalyptic World: 21.0%

@@ -1,0 +1,11 @@
+Top 9 Finalist Projects - JOSE
+--------------------------------------------------
+1. OpenGraph : TensorflowSui: 32.0%
+2. ASTRA: 31.0%
+3. SuiZa: 29.0%
+4. BeforeLife: 29.0%
+5. Apocalyptic World: 28.0%
+6. Mitsui Protocol: 28.0%
+7. Suiiii: 28.0%
+8. Agent Builder / 🤖 Ava the Portfolio Managing AI Agent: 28.0%
+9. snowfish agent: 27.0%
