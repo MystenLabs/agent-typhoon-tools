@@ -1,0 +1,11 @@
+2025-02-17 23:00:18,106 - INFO - Logging initialized
+2025-02-17 23:00:18,106 - INFO - Starting analysis
+2025-02-17 23:00:18,106 - INFO - Reading CSV file
+2025-02-17 23:00:18,109 - INFO - Found 169 descriptions to analyze
+2025-02-17 23:00:18,109 - INFO - Processing description 1/169
+2025-02-17 23:00:19,516 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 23:00:19,524 - INFO - Successfully categorized as: Other (confidence: 0.85)
+2025-02-17 23:00:20,529 - INFO - Processing description 2/169
+2025-02-17 23:00:21,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 23:00:21,736 - INFO - Successfully categorized as: DeFi (confidence: 0.9)
+2025-02-17 23:00:22,737 - INFO - Processing description 3/169

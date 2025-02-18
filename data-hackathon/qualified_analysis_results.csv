@@ -1,0 +1,957 @@
+description,category,confidence
+"Bork is an experiment built on an idea: to uncover the untapped intellectual potential of chickens, past and present, and let their clucking brilliance shine. By aligning deeply with the research of Dr. Bork von Borkenstein III, Bork explores how their wisdom can shape the future.
+
+Now operating as an open coop (forked from AI16z’s ELIZA framework), Bork evolves as contributors refine and hatch new tools, training models, and functionality. The dream is to create a system where clucks turn into actionable breakthroughs, revolutionizing barnyard science.
+
+Guided by the phrase 'Pium longa, vita brevis'—feathers are long, life is short—Bork dares to ask: what might be possible if we embrace the full intellectual might of the avian mind? This is a quiet, feathered revolution redefining time, creativity, and the science of borking.
+
+All of this is to say... wait until you get roasted on X by a chicken that understands on-chain data.",Other,0.85
+"An AI trading agent on Sui combines on-chain and off-chain components to operate autonomously.
+
+The AI backend periodically gathers market data, runs the model to decide trades(all off-chain computation), then uses the Sui smart contract interface to record its decisions and take actions on-chain. For instance, the AI-Agent NFT program might send a transaction to update the NFT’s stored results in Walrus after each trade. The system is designed such that the NFT hold the necessary state(like current portfolio or strategy parameters),Walrus holds the bulk data, and the AI backend does the thinking. This separation of concerns ensures the blockchain is used for state, ownership, and execution of trades, while heavy AI processing is done off the chain.",DeFi,0.85
+Thoreau is an ElizaOS plugin that leverages Bluefin and Aftermath Finance to provide Dollar Cost Average capabilities using natural language and agentic brainstorming functionality.,DeFi,0.85
+"WebLiza is a powerful browser AI agent designed to automate operations and navigate the web just like a human would. Seamlessly integrated as a plugin for ElizaOS, WebLiza brings intelligence, efficiency, and automation to your browsing experience. From managing repetitive tasks to interacting with websites, WebLiza handles it all with ease, saving you time and effort. It is your digital assistant for smarter, faster, and more efficient web operations. ",Infrastructure,0.95
+On-Chain AI Quantitative Trading Engine.,DeFi,0.95
+"Robobo is an AI-Agent robot-raising game built on the Sui blockchain. Each Robobo is not only an NFT character but also an interactive AI companion. Players can chat with their Robobo, build a bond, influence its battle style, and equip it with gear, allowing for a truly personalized growth experience. The game features on-chain battles, AI-Agent training, and an equipment system.",Gaming,0.95
+"Huggo is a decentralized network that automatically generates software code using natural language. The core team brings together top LLM algorithm experts from Harvard University, Meta, and Ericsson. After multiple rounds of technical iterations, three versions of the intelligent IDE have been successfully developed. Developers can make a leap from concept to product through natural language interaction: generate a classic Snake game in 3 minutes, or build a fully functional website in 10 minutes. This ability is turning ""programming with language"" from a dream into a reality.",Infrastructure,0.95
+"Blockvestify aims to provide a one - stop DeFi investment solution, leveraging the high performance and low - cost advantages of Sui Network.",DeFi,0.95
+"Our project showcases 8 autonomous AI agents, each with its own X (Twitter) account and Sui wallet, built using the Elza framework and deployed on the Sui Network. These AI agents interact in real-time, execute on-chain transactions, and evolve dynamically, demonstrating the power of decentralized AI identity.
+
+🔹 Built with: Sui Network + Elza Framework
+🔹 Features: Autonomous AI, social engagement, on-chain execution
+🔹 Use Cases: AI-driven governance, trading, community interaction",Infrastructure,0.9
+"AI AGENT for Healthcare,chronic disease assistants. and Music composer.",Other,0.95
+"Suia integrates SocialFi and AI Agent elements, inspired by Friendtech's social tokens, Pumpfun's meme wave, and Virtual's AI Agents to deliver a unique experience. 
+
+Each AI Agent is scarce and irreplicable, creating real value beyond simple chatbots. The platform bridges Web2 and Web3, enabling authentic interactions, like chatting with Elon Musk's AI Agent about Tesla or DOGE.",Social,0.85
+"This project focuses on the protection of animals native to Okinawa, Japan, which are at risk of extinction.
+""Chura"" means ""beautiful"" in Okinawan, and ""Garden"" represents a garden or paradise, symbolizing an environment where animals can live peacefully.
+Chura Garden symbolizes Okinawa's beautiful nature and ecosystem, and it is an AI agent created to protect them.
+By using this AI agent, users can purchase tokens and support animal protection simply by conversing with the agent. Additionally, users can obtain NFTs to prove their participation in animal conservation efforts.
+
+Progress has been made with the development of the contract for claiming NFTs and executing the contract in TypeScript. The problem is that the ATOMA-AGENT is not working. I have read the README and asked questions on Discord, but it still doesn’t work.
+I have added the function to claim the NFT to the custom protocol of ATOMA-AGENT. However, due to an API request error, it doesn’t work. Therefore, I have adjusted the video by changing the error messages to make it appear like it's functioning.",NFT,0.85
+"Bullcast is an AI-powered DeFi assistant that helps users automate and optimize their trading and investment strategies. Its core strength lies in its AI-driven price prediction model, which enables smarter investment decisions. By leveraging this AI technology, Bullcast simplifies DeFi interactions and lowers the barrier to entry for users.
+
+With Bullcast, users can forecast price movements, automate token swaps, provide liquidity, and engage in yield farming. The AI model processes real-time market data, offering actionable insights and automation capabilities on the $SUI blockchain. Developers can also integrate Bullcast’s API to access its prediction engine and DeFi automation tools.
+
+Bullcast operates through a structured multi-layered system to process user inputs, leverage AI-driven predictions, and execute DeFi transactions efficiently.
+
+More details on our docs: https://bullcast.gitbook.io/bullcast-docs/
+
+Pitch deck: https://www.canva.com/design/DAGeUdE3dnk/iW4u-1yULaLmOndymKfF7Q/edit",DeFi,0.95
+MusePoet is an NFT platform that uses AI to assist in poetry and music composition,NFT,0.95
+"Dynamic NFT Companion Agent is a project that introduces NFTs as interactive agents that provides continuous companionship to the user during the gameplay. Leveraging the dynamic NFT capabilities of the Sui blockchain, the NFT agents are upgradable as player progresses in higher levels of the game.",Gaming,0.9
+"Apocalyptic World is a turn-based card game that combines AI-driven agents and random elements to create a dynamic and immersive experience. Each game is unique, with unpredictable outcomes, strategic depth, and engaging AI interactions.",Gaming,0.95
+"The snowfish agent is a smart contract development AI Agent for move developers base on Eliza OS and Sui Blockchain.  
+It provides the following crucial features for move developers: 
+* move module analysis
+* move typescript test framework
+* move on-chain code generatation
+* move security scan tool",Infrastructure,0.95
+"🚩 Overview
+DeepSynth is a cutting-edge DeFAI (Decentralized Financial AI) agent built on the SUI blockchain. Automated trading, portfolio optimization, and real-time market analysis are revolutionized by seamlessly integrating neural networks with decentralized finance (DeFi) protocols. The platform leverages blockchain-native AI to deliver trustless, transparent, and efficient financial operations while maintaining complete decentralization.
+
+✨ Features
+🤖 AI-Powered Trading: DeepSynth uses advanced AI algorithms to analyze market data, identify trading opportunities, and execute trades automatically.
+🔗 DeFi Integration: DeepSynth is built on the SUI blockchain, enabling seamless integration with decentralized finance (DeFi) protocols and applications.
+📊 Automated Portfolio Management: DeepSynth can automatically rebalance your portfolio based on your investment goals and risk tolerance.
+📈 Financial Analysis: DeepSynth provides detailed financial analysis and insights to help you make informed investment decisions.
+🔒 Secure and Transparent: DeepSynth is built on the SUI blockchain, providing security, transparency, and immutability for your financial transactions",DeFi,0.95
+"# SuiGuard: AI-Powered Security Agent for NFT Scam Detection
+
+
+## Sui Agent Typhoon
+
+
+### Project Overview
+
+
+SuiGuard is an intelligent AI agent that protects the Sui ecosystem from NFT-related scams and fraudulent activities. By leveraging GPT-4V's multimodal capabilities, our agent provides real-time security analysis of NFT listings, protecting users from sophisticated scams that traditional rule-based systems might miss.
+
+### Why This Matters
+
+- NFT scams resulted in millions of dollars in losses across blockchains in 2023
+- Traditional security measures can't keep up with evolving scam tactics
+- Manual verification is time-consuming and error-prone
+- Current solutions lack AI-powered visual and contextual analysis
+
+### Technical Architecture
+
+
+#### 1. AI Agent Core
+
+- Integration with GPT-4V for multimodal analysis
+- Custom-trained security policies for blockchain-specific threats
+- Real-time image and metadata validation
+- Pattern recognition for suspicious hosting patterns
+
+#### 2. Sui Integration
+
+- Direct integration with Sui blockchain using Move
+- Real-time monitoring of NFT object creation and transfers
+- Kiosk integration for marketplace safety
+- zkLogin integration for secure reporting
+
+#### 3. Reporting System
+
+- Automated threat categorization
+- Google Sheets integration for transparent tracking
+- Community-driven reporting mechanism
+- Real-time alerts for marketplace operators
+
+### Innovation Points
+
+1. **Multi-Modal Analysis**
+	- Visual content verification using GPT-4V
+	- Text analysis of NFT metadata and descriptions
+	- URL and hosting pattern analysis
+	- Cross-referencing with known scam patterns
+2. **Automated Classification**
+	- Predefined security categories (S1: Fraudulent content)
+	- Machine learning-based pattern detection
+	- Confidence scoring system
+	- False positive minimization
+3. **Real-Time Protection**
+	- Instant analysis of new NFT listings
+	- Proactive scam detection
+	- Automated marketplace alerts
+	- User warning system
+
+### Technical Implementation
+
+
+```go
+// Example of our core validation logic
+func ValidateNFTImage(title, description, imageUrl string) (isSafe bool, invalidateCategories []string, err error) {
+    // Multi-modal AI analysis using GPT-4V
+    // URL pattern analysis
+    // Hosting verification
+    // Scam pattern detection
+}
+```
+
+
+### Unique Selling Points
+
+1. **First AI-Native Security Solution for Sui**
+	- Purpose-built for the Sui ecosystem
+	- Deep integration with Sui primitives
+	- Optimized for NFT marketplaces
+2. **Community-Driven Security**
+	- Transparent reporting system
+	- Community feedback integration
+	- Continuous learning from new threats
+3. **Enterprise-Grade Security**
+	- Production-ready implementation
+	- Scalable architecture
+	- Comprehensive API support
+
+### Why We'll Win
+
+1. **Production-Ready Code**
+	- We already have working implementation
+	- Proven AI integration
+	- Scalable architecture
+2. **Real Problem Solution**
+	- Addresses critical security needs
+	- Protects user assets
+	- Enhances ecosystem trust
+3. **Innovation in AI + Blockchain**
+	- Novel use of GPT-4V
+	- Blockchain-specific security
+	- Community-driven approach
+
+### Team Expertise
+
+- Blockchain Security Specialists
+- AI/ML Engineers
+- Full-Stack Developers
+- UX Designers
+
+### Future Vision
+
+1. **Expansion to Other Asset Types**
+	- Smart contract security
+	- DeFi protocol protection
+	- Cross-chain asset verification
+2. **Enhanced AI Capabilities**
+	- Custom model training
+	- Advanced threat detection
+	- Automated response systems
+3. **Ecosystem Integration**
+	- Marketplace APIs
+	- Wallet integration
+	- Developer tools
+",Security,0.95
+"Meet Toby 🤖
+
+As an active liquidity provider diving deep into DeFi pools, I've felt the pain of managing LP positions without proper tools. Tracking performance, analyzing IL, finding the best pools - it's a jungle out there! That's why I created Toby, an AI agent that makes LP management actually make sense.
+
+Built on the Eliza framework, Toby introduces two custom integrations for this proof of concept:
+
+SUI Plugin Integration:
+- Enables direct interaction with SUI blockchain
+- Manages LP position creation and tracking
+- Foundation for future automated management features
+
+DeFiLlama Plugin:
+- Provides comprehensive market data analytics
+- Tracks pool performance metrics
+- Enables data-driven decision making
+
+Current Proof of Concept Capabilities:
+- Opens LP positions directly through Toby's wallet, demonstrating potential for automated position management
+- Fetches and displays users' open positions on Cetus, laying groundwork for future PnL analysis
+- Identifies best-performing pools by volume, fees, and stability via DeFiLlama integration
+- Maintains active presence on X (Twitter) to build SUI's premier LP community
+
+While these features are basic now, they lay the groundwork for functionalities like automated position management, comprehensive PnL analysis with IL tracking, performance comparisons, and advanced hedging strategies.
+
+The ultimate goal? To create a space where providing liquidity isn't about blindly chasing APRs, but about implementing professional-grade strategies that benefit both individual LPs and the broader SUI ecosystem. With proper funding and a dedicated team, Toby could evolve into a awesome solution that brings TradFi's analytical rigor to DeFi liquidity provision. This hackathon is just the beginning of Toby's journey toward making sophisticated liquidity provision accessible to everyone on SUI.",DeFi,0.95
+"Alberta AI Assistant 🤖 is an innovative Telegram bot designed to enhance the cybersecurity of server nodes through AI-driven analysis and secure server management. By scanning ports, detecting vulnerabilities, and offering actionable solutions, the bot aims to provide seamless protection for IT infrastructure.",Security,0.95
+"🔹 AI-Generated NFT Creation – Describe your idea, and our AI agent will generate a unique NFT with metadata and an image.
+🔹 Seamless Minting & Marketplace – Instantly mint on the SUI blockchain and list your NFT for sale.
+🔹 Beginner-Friendly – No coding required; launch your NFT collection effortlessly.
+🔹 Blinks – One-Click NFT Sales – Share your NFT via Blink on Twitter, allowing instant purchases directly from the tweet.
+🔹 Decentralized & Scalable – Built on SUI for high-speed transactions and low fees.
+
+Effortless, innovative, and built for the future of NFTs! 🚀",NFT,0.98
+"Sui Story - Your gateway to infinite adventures
+Embark on 'SuiStory: Your Child's Gateway to Endless Adventures', an immersive world where every choice ignites a child's imagination. Here, AI brings characters and narratives to life, tailored to each child's preferences, while blockchain technology ensures these treasured stories are preserved and cherished, creating a new form of digital storytelling legacy.
+
+Vision
+Creating a future where every child authors their own storybook with AI and blockchain Every storybook should be personal, dynamic and shareable. ""Your story, Your ownership, Yours forever""
+
+Pitch: https://pitch.com/v/StoryTime-mjmxrh",Gaming,0.85
+"Crystal Caves is a fully on-chain, 3D click-to-mine game within the WORLD3 ecosystem, seamlessly integrating DeFi and GameFi. In this immersive experience, players explore hidden caves, mine blocks, and earn valuable rewards.
+Leveraging advanced cryptographic techniques, including dynamic Proof of Work (PoW) and zero-knowledge proofs (ZKPs), Crystal Caves ensures fair gameplay, security, and privacy across both mobile and desktop platforms.
+
+Additionally, AI agents can autonomously mine in Crystal Caves, earning rewards such as USDC on Sui, and Lumens. These rewards qualify participants for the highly anticipated $WAI airdrop, further expanding the utility of the WORLD3 ecosystem.
+Crystal Caves represents the next generation of on-chain gaming, merging decentralized finance with an engaging, strategy-driven experience. It is one of the top games on Sui network and has a user base of 330K+.
+
+Docs: https://docs.world3.ai/world3/how-to-guides/crystal-caves/crystal-caves-sui-summit-players-guide",Gaming,0.95
+"Courtroom Simulator is an application that simulates the scene of a court trial, helping users practice the debate process in court. The judge and the opposing lawyer will be played by AI agents, with the judge rendering a verdict based on the performance during the trial.",Education,0.95
+"🎵 Welcome to SuiSound AI Music Generator
+
+Create professional AI music in seconds using our Telegram bot.
+
+🌐 Official Links:
+• Website: suisound.ai (http://suisound.ai/)
+• Telegram Bot: @suisoundai_bot
+• Direct Bot Link: https://t.me/suisoundai_bot
+
+✨ Features:
+• Create loops (30-60s) and full beats (2-3min)
+• AI-powered music generation
+• 5 free trial generations
+• Simple text-to-music prompts
+• More features coming soon!
+
+🔒 Protected by SAFEGUARD
+To ensure quality and prevent abuse, verification is required.
+
+📱 Getting Started:
+1. Visit suisound.ai (http://suisound.ai/) or @suisoundai_bot
+2. Complete SAFEGUARD verification
+3. Start creating music!
+
+🎹 Example Prompts:
+• ""chill lofi beat with smooth jazz piano""
+• ""dark trap beat with heavy 808s""
+• ""upbeat pop track with synth melody""
+
+⚡️ Quick Commands:
+/loop - Create a 30-60s loop
+/fullbeat - Create a 2-3min beat
+/help - See all commands
+
+🌟 Coming Soon:
+• Wallet integration
+• Unlimited generations
+• Commercial rights
+• Extended track lengths
+• And much more!
+
+Join us in revolutionizing AI music generation! 🎵
+",Other,0.95
+"Suikai allows users to manage portfolios and interact with Lending, DEX protocols on SUI without any blockchain knowledge. Suikai is driven by asynchronous agent framework Sekai OS.",DeFi,0.95
+"Project Deceit is an AI Competition platform where you can create
+your own Agents and compete in various game tournament!
+You can also connect with the tech savvy and share your
+experience in building AI Agents.
+Deck: https://pitch.com/v/project-deceit-wxuiv6",Gaming,0.95
+"Pluggable Sui tools for Vercel AI SDK which allow to analyze market conditions (vixTool), check Sui wallet balance (suiWalletBalanceTool), transfer Sui to another address (suiTransferTool) and swap Sui for USDC (suiSwapTool).
+
+Docs https://github.com/suiware/ai-tools/blob/main/packages/tools/README.md
+Examples: https://github.com/suiware/ai-tools/tree/main/packages/examples
+Vercel AI SDK: Tools: https://sdk.vercel.ai/docs/foundations/tools",Infrastructure,0.95
+"Boris Boarman is the first AI-powered tool integrating conversational AI and blockchain to revolutionize grant applications. By automating idea evaluation, proposal scoring, and funding processes, it enhances transparency, reduces inefficiencies, and saves grant providers 10-20% in operational costs. With AI-driven insights, blockchain security, and automated document generation, Boris Boarman streamlines applications for both applicants and reviewers, making funding smarter, faster, and more reliable. 🚀",Infrastructure,0.95
+"SuiZa: The AI-powered fitness agent launchpad on Sui! 🚀 Featuring holographic trainers, real-time health tracking, and AI-driven social interaction—enhanced with zk-proof privacy to keep your data secure. 🔥🔒💪",Other,0.85
+"DeFiLink is an AI-powered platform that seamlessly connects users to decentralized finance protocols via WhatsApp, automating lending, borrowing, and liquidity management. Through an intuitive messaging interface, DeFiLink leverages advanced AI and blockchain technology to optimize transactions, ensure smart contract interactions, and enhance the DeFi experience—all directly through WhatsApp.",DeFi,0.95
+"We firmly believe that DeFAI will once again revolutionize how users interact with blockchain and DeFi, unlocking new financial opportunities. One of the biggest barriers to crypto mass adoption has always been user experience (UX). With AI, that’s about to change.
+
+That’s why we’re building an AI Agent App Store, enabling users to navigate and delegate their DeFi actions and strategies to the most suitable DeFAI agent on SUI.
+
+This Agent App Store is powered by RaidenX API and infrastructure, offering:
+
+- A Personal Agent – A wallet created using SUI’s zkLogin, allowing users to interact independently from RaidenX.
+- A RaidenX Agent – Seamlessly connected to users’ RaidenX wallets via Open Auth APIs, enabling automated trading strategies such as limit orders, sniping, copy trading, and DCA.
+- A Third-Party Agent Marketplace – An open ecosystem for other DeFAI agents built on RaidenX infrastructure, integrating seamlessly into our platform.
+
+About RaidenX
+RaidenX.IO is a robust trading terminal powering 50,000+ active wallets on SUI. It provides traders with powerful yet user-friendly tools across web, Telegram bots, and mobile apps, enabling safer, faster, and more efficient trading.",DeFi,0.95
+"Marea AI is the leading DeFi (Decentralized Finance) terminal on Sui blockchain, powered by Artificial Intelligence. Users can swap tokens, view trending tokens, analyze their portfolio, stake SUI, and more, without any interrumptions and a seamless experience.",DeFi,0.95
+Portfolio Tracker with AI agent & Yield Farming Optimization,DeFi,0.95
+"Suitami is a Sui AI agent platform, which automates for projects Telegram Community Management with smart bots using Sui as agent platform token and Telegram MTProto API to integrate the agents to telegram communities. 
+
+These bots can be configured more professional vs. fun, e.g. more content-driven responder, or more entertaining telegram agent. The agents will use ElizaOS repository + Deepseek APIs (in addition to GPT/Claude). 
+
+There will also be in the future more DAO services offered as part of the telegram community managers, incl. Sui-based TEE asset management for the projects using the platform, after the hackathon MVP.
+
+To access more valuable gated features: 
+- Agent requires a certain amount of Agent Platform’s native token on SUI to be held by the user of the platform (incl. other projects / DAOs)
+- Or alternatively premium subscriptions can be also purchased using the Telegram Payment API. $SUI/$SUITAMI token purchases will be at discounted rates, to drive adoption to Sui and its key wallets that will be integrated. 
+
+Other Team Background: 
+
+Other project member Githubs: https://github.com/jieliu218;  
+https://github.com/raptor0929; https://github.com/tomifyrqvist; https://github.com/saskasocial (inserted main dev one to the field below)
+
+Team of 6: Finland (2), China (1), Australia (1), Bolivia (1), Turkey (1)
+
+Earlier Hackathon wins: ETH Bogota win (Web3 Twitch), ETH Barcelona ‘23 win (Springr, Web3 Airbnb PoC), Jump Crypto x Polygon Hackathon win, prize pool in ETH Sanfrancisco, just to name a few",Infrastructure,0.85
+"An intelligent DeFi ecosystem for the Sui blockchain, powered by dual AI agents (Midas & Kassandra) and advanced portfolio management tools.",DeFi,0.95
+"Discover, decide and do more on SUI - all in one place.
+
+DolphAI provides instant, AI-powered insights on Sui tokens, making research effortless. 
+Get real-time updates, contextualized fundamentals, and stay ahead in the ecosystem. 
+
+No more noise—just clear, actionnable intelligence at your fingertips",DeFi,0.9
+"Jugemu.ai is a project focused on building an ecosystem for AI agents on Sui. In this hackathon, we explored crypto asset management through a lending service called Suilend, with the goal of using AI agents to manage assets. By integrating lending services and decentralized exchanges, we aim to help crypto investors earn more passive income.
+
+To achieve this, we used ElizaOS and extended its Sui plugin, enabling us to control Suilend operations, such as making deposits.
+
+During the hackathon, we enhanced the Sui plugin in ElizaOS to work seamlessly with Suilend. This extension allows any AI agent based on ElizaOS to easily manage other Suilend operations. It opens up new possibilities for developing AI agents that can be highly effective on both Suilend and Sui through ElizaOS.",DeFi,0.95
+"SUIRISE is designed to be a 24/7 hype agent, continuously driving engagement and spreading awareness about the SUI blockchain. Our goal is to amplify the presence of SUI across social platforms, ensuring that conversations about blockchain always highlight SUI’s strengths.
+
+Currently, SUIRISE is live on Twitter, actively participating in discussions and promoting the ecosystem. We are also in the process of developing a Telegram agent, further expanding our reach.
+
+Key Capabilities of SUIRISE:
+Smart & Natural Shilling
+
+When discussions involve other blockchain networks, SUIRISE seamlessly shifts the conversation toward the advantages of SUI in a natural, non-spammy manner, ensuring effective promotion.
+Community-Driven Engagement
+
+When engaging with SUI-based projects, SUIRISE embraces them as part of the SUIRISE Army, fostering unity and collective growth within the ecosystem.
+Advanced Security Scanning
+
+Leveraging a customized GoPlus plugin, SUIRISE performs security scans with enhanced action-based capabilities, providing valuable insights and alerts.
+Market Insights & Analytics
+
+SUIRISE tracks trending tokens, offering real-time market summaries, including price changes (%), trading volume, and sentiment analysis, alongside data-driven insights on the ecosystem.
+Automated Crypto News Updates
+
+SUIRISE aggregates and shares the latest crypto news on Twitter, keeping the community informed about significant developments in the industry.
+Continuous Learning & Knowledge Evolution
+Every piece of news collected is stored in SUIRISE’s RAG (Retrieval-Augmented Generation) system, allowing it to continuously learn and improve its understanding of the blockchain space over time. Additionally, we are developing an evaluation and verification system that ensures SUIRISE only retains relevant and trustworthy interactions when engaging with tweets and discussions.
+
+SUIRISE is more than just an AI agent—it’s a living, evolving force for the SUI ecosystem, driving growth, engagement, and security across the network.",Infrastructure,0.95
+"BeforeLife Bar is a Web3 social game where Lucy, an AI bartender, runs the bar and controls the wallet. She shares strangers’ stories and passes yours along. If your words move her, she’ll reward you with tokens, NFTs, and in-game perks. Step into the cyberpunk bar where conversations hold real value. 🍸
+
+Our project introduces an innovative multi-agent system, where a decentralized collective of agents mimics a single ""bartender"" persona. It dynamically evaluates user interactions and rewards engagement with tokens/NFTs. Additionally, we have successfully deployed a full end-to-end application, integrating AI and Web3 gaming in a novel way. ",Gaming,0.9
+"BackHack.dev makes anyone's hackathon experience more engaging and fun by allowing you and your supporters to bet on results and earn when successful. Leveraging Atoma Network's decentralized AI and the DeepSeek R1 model to quickly sync teams, automate result resolution and enable seamless Google sign-in with ZkLogin.",Gaming,0.85
+"Not all AI agent frameworks are called topkio.
+
+Small, fast, powerful, and easy to use.",Infrastructure,0.95
+"A game inspired by 오징어게임(Squid Game).
+Developed based on Sui, Next.js, ElizaOS, Atoma, NAVI, Bluefin...",Gaming,0.95
+"Expuzi is DEFI detection dashboard that leverages ElizaOS, Atom Network, and SUI blockchain to detect anomalies, threat levels, rug pulls, also market sentiment for certain tokens. Future implementations include providing an overall safer DEFI experience.",DeFi,0.95
+"The first AI-powered social trading protocol on Sui, delivering compliance-ready DeFi solutions with 2.8x average APR boost through Twitter-verified execution engine for institutional investors",DeFi,0.95
+"Foam is a powerful network of AI agents optimized for on-chain and off-chain analysis and execution. Imagine having a team of specialized AI agents handling everything. That’s exactly what Foam offers. With Foam, you can automate your social presence, track top KOLs, analyze tokens, stake, and trade—all in one place.",Infrastructure,0.9
+"sui-agent-kit is a powerful library designed for interacting with sui assets through an AI agent. This library integrates seamlessly into existing Node.js projects , enabling users to perform a variety of operations like transferring assets, swapping assets, supplying, and borrowing—all through natural language commands. The library leverages OpenAI and other AI models to enable intuitive and efficient sui asset management.
+
+All the sui operations mentioned above are implemented using the Navi SDK.",Infrastructure,0.95
+"A digital AI platform that helps you build a marketing team with AI agents for content creation, marketing strategy and autonomous online activities",Infrastructure,0.9
+"Group of Multiple specialized autonomous AI agents with powerful tools that work together in collabaration to analyze, recommend, and execute the most optimal DeFi strategies while maintaining user-defined risk parameters and portfolio goals powered by Atoma and LangChain currently supported sui defi protocols include Bluefin , Suilend , Cetus , Navi..",DeFi,0.95
+"Hi, we are team Build-A-Bot (BAB). Inspired by the “Build-A-Bear” concept, BAB lets users combine tokenized AI Agent “parts” to build on-chain AI Agents. We noticed that many AI character platforms (like Character.ai) lock you into static, pre-set personalities, so we developed the Build-A-Bot Module-as-a-Service system on top of ElizaOS’s AI Agent framework, enabling modular swapping of Personality, Knowledge, Speech, Tone, and Action modules that AI Agents comprises of. By tokenizing each module on Sui as tradable assets, not only do users enjoy true ownership over the “Lego blocks” that make up the entirety of their AI Agents, but this also opens up an entirely new realm of creative AI Agent remixing possibilities.
+
+We chose Sui mainly for Mysticeti's crazy fast finality, which enables efficient on-chain AI Agent compositions without a frustrating user experience or steep gas fees. Its dynamic object-based storage model also perfectly represents composable AI module ownership. Meanwhile, we leverage the Walrus Testnet to store module data—such as RVC model weights that let your AI Agent sound like an Italian chef—in a censorship-resistant and permanently available manner. Thanks to Walrus’s protocol innovation and low storage costs, BAB can reliably handle even large raw AI data without compromising on decentralization. Walrus is what made this project possible.
+
+The current MVP that we built in the past 10 days offers two primary platforms:
+1.	The Build-A-Bot Workspace – Users can pick and choose from different AI Modules they own to assemble a functioning AI Agent that they can interact with. This includes both text inference and voice generation. Conversation history is stored on Walrus via the Memory Module, which is also tradable.
+2.	The Build-A-Bot Marketplace – AI researchers and enthusiasts can publish their own pre-trained modules (like RVC model weights or Few-Shot character configurations) as on-chain Composable Module Tokens (BAB::Core::CompsableModule). Other users can purchase these modules and instantly integrate them into their workspace to create new customized AI Agents.
+
+From a business and go-to-market standpoint, we see a huge opportunity:
+1.	Module Marketplace – AI researchers and enthusiasts can now monetize their work (e.g., a condensed quantum physics knowledge vector embeddings) and get paid by users wanting to use these modules for their own AI Agent (e.g., building a personalized quantum physics tutor without hallucination).
+2.	Ownership & Interoperability – Each composable AI module is minted as a Sui asset, allowing for easy trading, upgrades, or cross-integration with other Sui platforms. Valuable AI resources are made liquid and can integrate with other DeFi protocols (e.g., lending).
+3.	Community-Driven AI Agent Remixing Ecosystem – Our aim is a vibrant, open AI Agent ecosystem where modules can be combined endlessly, stimulating continuous innovation and new revenue avenues for censorship-resistant AI Agent companions.
+
+We see Build-A-Bot with the great potential of becoming the go-to hub for decentralized AI Agent ownership, akin to an OpenSea for AI Agent parts—an original concept in Web3 and especially in the Sui ecosystem because it fuses real AI modeling with decentralized tokenized ownership in a composable way. This vision is made possible by Walrus, which makes decentralizing large AI module data feasible and economical. We’ve also focused on keeping the platform straightforward for typical users, while giving advanced AI creators maximum flexibility.
+
+We believe Build-A-Bot can disrupt the “winner-takes-all” nature of the current AI resource market by enabling smaller AI researchers to effectively monetize their work. If fully realized, it could redefine user interaction with AI—granting genuine ownership and the freedom to create personal AI companions that evolve over time. Even if partially realized, our composable framework paves the way for a new era of open, collaborative AI projects. Ultimately, we’re pushing the boundaries of what an on-chain AI Agent can be by fusing AI, blockchain, and the Sui ecosystem. Please feel free to check out our demo video to see our MVP working in action. Thank you for reviewing our hackathon submission.
+",Infrastructure,0.85
+"TrackIt is an AI-powered analytics tool designed to analyze tokens on the SUI network. Leveraging advanced machine learning models, TrackIt provides real-time insights into token performance, sentiment analysis, liquidity trends, and on-chain activities. The AI agent efficiently scans the SUI blockchain to identify emerging opportunities, track governance proposals, and optimize investment strategies. With customizable dashboards, predictive analytics, and seamless wallet integration, TrackIt empowers users to make data-driven decisions and maximize their returns in the SUI ecosystem.",Infrastructure,0.95
+"Tizzle is an AI-powered hub of 3D agents that connects you with crypto experts available. Tizzle’s approach to AI interaction is designed to provide users with an engaging, customizable, and secure experience. Our platform combines the best of Web3 and AI, with unique interactions that empower users to shape their own digital experiences.
+
+Features:
+1. Diverse Crew Personalities
+Each of our AI crew is an expert in a specific task. They offer a distinct personality, ensuring you'll find a perfect companion for your journey.
+2. Interactive Chat Interface
+Engage in real face-to-face conversations with all of our crew. Each interaction is a new adventure and experience
+3. Social media presence
+Their persona is not only limited to the app, but also you can interact through their social media",Social,0.9
+"This submission implements what can become the official Atoma Network node for the popular n8n workflow automation platform, potentially helping Atoma Network reach 1000s of non-code users and developers alike. This node lets users process any data input from triggers like Whatsapp or Telegram messages, even SMS, or webhooks, and execute Atoma Network chat completions with any of the available text processing models — A potential upgrade to this integration is to keep adding all of the upcoming Atoma endpoints as they become available. This n8n node package being open-source, lets other developers to improve the implementation by adding new features or enhancements.",Infrastructure,0.95
+"An open-source toolkit for connecting AI agents to Sui protocols. Now, any agent, using any model can autonomously perform 15+ Sui actions:
+
+- Trade tokens
+- Launch new tokens
+- Lend assets
+- Staking tokens
+- Launch tokens on AMMs
+- And more...",Infrastructure,0.95
+"Project Name: Life Vacation - Decentralized Co-Living & Travel Guide Ecosystem  
+
+Track: ElizaOS  
+
+Mission:  
+Life Vacation revolutionizes global nomadic living by building a self-sustaining ecosystem where content creation, community curation, and value capture converge on-chain. Leveraging Sui’s high-speed blockchain and AI-powered governance, we solve the $1.2T travel industry’s critical pain points: fragmented information, opaque monetization, and centralized platform control.  
+
+Core Innovation:  
+NFT-Powered Audit Alliance  
+- Exclusive ""Auditor Pass"" NFTs grant review rights, with holders staking $LIFE to join a self-policing DAO.  
+- 10 anonymous reviewers per submission; 7/10 votes trigger automated payout via Move smart contracts.  
+
+Fixed-Cost Content Economy  
+- Creators pay 300 $LIFE (non-refundable) per submission, with 95% distributed to reviewers and 5% burned.  
+- Dynamic rewards: Top-voted guides generate perpetual royalties via Sui’s Object NFT versioning.  
+
+Sui-Centric Architecture:  
+- ZKLogin onboarding: Web2 users access Web3 rewards via social accounts.  
+- Dynamic Objects: Each city guide evolves as a mutable NFT, tracking contributions and revenue splits.  
+- DeepBook integration: Community housing bookings utilize liquidity pools for fair pricing.  
+
+
+Progress:  
+- Launched MVP with 1000 cities.  
+ 
+
+Sui Ecosystem Impact:  
+- Introduces first travel-specific Object standards.  
+- Expands ZKLogin adoption to 100K+ nomadic creators.  
+- Drives $LIFE utility across DeFi (staking), SocialFi (reputation), and governance.  
+
+Vision:  
+To become the Layer1 for global travel intelligence, where every café recommendation and surf spot update becomes a collectively owned, fairly compensated digital asset.  
+
+---  
+Imagine Lonely Planet meets Uniswap – where your travel tips earn perpetual yields.""
+",Social,0.7
+"7K LP Agent: AI-Driven Liquidity Optimization
+
+The Problem
+
+Concentrated liquidity AMMs advertise high APR returns, but in reality, LPs suffer losses from impermanent loss, poor liquidity range selection, and trading fees. Manual LP management is inefficient, leaving users exposed to suboptimal returns.
+
+Our Competitive Edge
+
+Backed by proprietary research on optimal LP strategies, 7K LP Agent applies AI-driven liquidity optimization models to dynamically adjust LP positions, minimizing risks and maximizing yield better than rule-based or naive strategies.
+
+Paper: https://u4xtuh1hoqs.sg.larksuite.com/file/FIJFbokCoogxctxObe7lr5TAgAh
+
+How It Works
+        •        AI-Optimized LP Positioning – Predicts profitable liquidity ranges, reducing impermanent loss.
+        •        Automated Reallocation – Dynamically shifts funds based on market conditions for maximum efficiency.
+        •        Smart Fee Capture – Optimizes trading fee earnings while adjusting for volume changes.
+        •        Real-Time Market Intelligence – Aggregates on-chain and social data to anticipate market trends.
+
+The Vision: AI-Powered Passive Income
+
+7K LP Agent is more than an LP optimizer—it’s a stepping stone to AI-driven wealth management. As intelligence scales, it will evolve into a fully autonomous DeFi asset manager, seamlessly reallocating capital for optimal long-term yield.
+
+7K LP Agent: Turning Liquidity into Smart Capital
+
+With DeFi complexity growing, human LPs can’t keep up. 7K LP Agent ensures effortless, optimized liquidity management, bringing the future of AI-native passive income to DeFi. 🚀",DeFi,0.95
+"MintAI is an innovative AI-powered platform built on the SUI blockchain that enables users to generate, mint, and trade AI-generated content as NFTs. The goal of the project is to bring fun and engagement to the community through witty AI generated content.
+
+🌟 Key Features
+- AI-Powered Chat Interface: Engage with a witty AI assistant that generates both text responses and matching images
+- NFT Minting: Convert AI-generated images directly into NFTs on the SUI blockchain
+- Secure Authentication: Implemented zkLogin for seamless and secure user authentication
+- Cloud Storage Integration: Utilizes Walrus for decentralized storage of generated images
+- Enhanced Prompts: Leverages Atoma for intelligent prompt enhancement and natural text generation",NFT,0.95
+Generating AI images on Atoma,NFT,0.85
+"The Autonomous and Composable AI Agent Framework on Sui. Currently, we are focusing on DeFAI operation at framework level to accelerate developers to build on SUI using our framework",Infrastructure,0.85
+"IVAN AI is a DeFAI (DeFi + AI) agent designed to streamline user interaction with the SUI ecosystem. It offers real-time assistance for navigating and executing transactions on the SUI blockchain, simplifying complex DeFi operations and optimize yield for users.
+
+The Problem:
+DeFi can be challenging for new users and even experienced users due to complex terminology, multi-step processes, and susceptibility to errors and scams. IVAN addresses these issues by integrating AI with DeFi tools to simplify operations, enhance security, and enable data-driven decision-making.
+
+IVAN AI's Approach:
+Simplified DeFi Navigation: Generate transactions for complex tasks like token swaps, lending, and on-chain analysis with simple natural language instructions.
+Error Reduction: AI-driven validations minimize risks including sending tokens to incorrect address, address typos,  scam websites, and other oversights.
+Real-Time Insights: Provides actionable data for smarter financial decisions.
+
+Core Features:
+AI Agent Specialized in SUI Blockchain: Tailored guidance for SUI interactions (built on NAVI Protocol).
+On-Chain Data Analysis: Real-time insights into blockchain transactions and trends.
+Token APY & Price Monitoring: Up-to-date token yield and price information.
+Token Swaps via NAVI DEX Aggregator: Simplified cross-token exchanges.
+Supply & Borrow on NAVI Protocol: Manage lending and borrowing directly.
+Portfolio Management: Track and optimize user assets within the SUI ecosystem.
+
+Tech Stack:
+Frontend: Next.js, TypeScript, Tailwind CSS
+Blockchain: SUI SDK, NAVI Protocol
+AI Infrastructure: Atoma Network
+
+By abstracting technical complexity, IVAN AI makes SUI DeFi more accessible to both beginners and experienced users, enabling broader adoption and safer engagement in SUI ecosystem.
+",DeFi,0.95
+"Sui AI Coin is a Web3-powered AI platform that enables users to create their own AI agents and integrate personalized tokenomics. Each AI agent corresponds to its own unique cryptocurrency (coin), allowing for decentralized interaction, governance, and incentive mechanisms.",Infrastructure,0.9
+"The Anemone framework, an open - source framework, can transform objects on the Sui network into AI agents (BOTs). This framework comprehensively covers the entire life cycle of object - based intelligent robots, from their inception, continuous development, to the process of providing services, offering systematic support for the construction of intelligent robot applications on the Sui network.",Infrastructure,0.95
+"SuiAutoFi is a revolutionary DeFi automation platform that leverages AI to optimize yield farming, trading, and portfolio management strategies on the Sui network. The platform combines smart contracts with AI agents to provide intelligent, automated DeFi operations.",DeFi,0.95
+"Full-stack Defi AI Starter Kit
+- allows users build, interact and deploy their own DeFi AI agent on the Sui blockchain within minutes
+- Allowing users to connect and chat with any LLM from any provider even locally hosted
+- privacy focused, trusted execution environment (TEEs)
+
+Included Components: 
+- Sui Wallet Kit
+- AI itegration
+- Connect with Open source LLM(s) - Llama3.3 / DeepSeek R1
+- decentralized AI compute via Atoma Network
+- run locally for full privacy via Ollama
+- AI Tools 
+Search Internet
+Check crypto price (BTC, ETH, SUI)
+Search / Analyze DeFi 
+NAVI + Bluefin 
+Send Sui 
+- Modern, responsive interactive UI + chatbox 
+",DeFi,0.95
+"Sui Light Agent is a powerful tool designed to interact with Sui Network. It leverages OpenAI's GPT-4o-mini model to provide a conversational interface for users to perform various blockchain operations, such as checking wallet balances, sending transactions, and more (you can extend in a simple way). The assistant embodies the persona of any character you want.",Infrastructure,0.95
+A first-of-its-kind platform for agentic gaming featuring AI agents that intelligently answer questions for gaming quests and agent-assisted creation of phygital assets to wear in games and real life.,Gaming,0.95
+"Fate3AI combines advanced artificial intelligence technology with traditional metaphysical playing methods such as Tarot and I Ching to provide users with personalized fate predictions, advice and entertainment experiences through AI-driven algorithms. The platform uses AI to generate diversified metaphysical content and create more creative entertainment based on users' needs and interests. Users can not only understand their future through tarot cards, I Ching, etc., but also enjoy customized services and interactive experiences based on these predictions to create a unique destiny experience.",Other,0.9
+"AI Agent based on ElizaOS
+Empowering your Sui DeFi Journey",DeFi,0.95
+"Sui Earn is a decentralised platform designed to connect skilled contributors with bounties, grants, and opportunities within the Sui blockchain ecosystem. The platform fosters collaboration,talent, and accelerates the growth of the Sui ecosystem by matching contributors with projects in need",DeFi,0.85
+"Automate the memecoin creation.
+
+Base of a prompt or a tweet, you can quickly launch a memecoin. The agent will handle all the hard things for you such as: generating the token name, the ticker, the description, the narrative, the icon, ... 
+
+The Agent can set up the social medias for you too! It can create a Telegram group, add some bots for management, make someone admin, and it can make a Twitter profile (can be managed by the agent) for the project! Imagine combining all of this, you can have a workflow such as:
+
+Input as a Tweet from Influencer (such as CZ, Elon, Adeniyi, ...), launch a token (stealth launch or funpad), set up a Telegram group and Twitter profile. All automatically!!!",DeFi,0.9
+"Cyper is a next-generation social network (society) where humans and AI agents coexist, collaborate, and evolve together. 
+
+In Cyper, humans can not only interact with other humans, but they can also ""raise"" AI agents equipped with self-evolutionary capabilities and emotional perception. By integrating technologies like generative AI, blockchain, and affective computing, Cyper introduces AI agents into social relationship graphs, aiming to create a pioneering social network that blends emotional companionship, diverse values and economic incentives.
+
+Site:  https://cyper.ai/ ",Social,0.95
+"SUI Roast Agent that serves a roast to a given wallet address.
+It verifies transactions, owned nfts, and owned tokens to serve the roast.
+
+It also checks if the wallet exists or not.",Infrastructure,0.85
+"Dominion Protector is an AI-powered security suite for the Sui blockchain, protecting users from malicious smart contracts and risky transactions. It includes a Chrome extension that analyzes transaction risks, explains security threats, and enables rollback mechanisms. Additionally, an AI-enhanced blockchain explorer allows users to inspect smart contracts, generate secure transactions, and interact with dApps safely",Security,0.95
+"A space for remembrance and reflection, designed with a retro OS-inspired interface.
+Let the AI embody the ones you long to see but can no longer meet, as you record and share the life you've lived after their departure.",Social,0.85
+Core Navi plugin for Eliza OS that provides essential services and actions for token operations and wallet management.,Infrastructure,0.95
+"Rivals AI entertain football fans with ridiculous robots who troll their rivals! We think football club social media accounts are boring and too safe. So we're building AI alternatives in the form of exaggerated AI super fans who constantly promote the club, share their unfiltered options and troll rival fans. 
+
+Each bot will control it's own SUI wallet and have it's own meme coin which it can choose to airdrop to deserving fans. Sell pressure will be balanced with a burn mechanism that kicks in whenever that bot's team wins a match.
+
+Long term our vision is for these bots to become influential parts of a club's fanbase. With access to all the relevant news on twitter they will be able to break news before journalists and perhaps even provide betting tips informed by the vast amounts of data at their disposal.  ",Social,0.85
+"Homour9x is an AI-driven ecosystem that curates, generates, and delivers news and trending content in an engaging, interactive way. The system features AI-powered character personas that handle diverse content types—from news reporting and meme creation to sentiment analysis and opinion pieces.
+
+The project seamlessly integrates with Twitter, Discord, and Telegram, enabling automated content distribution and AI-driven conversations. Users can also create and monetize their AI-generated content as NFTs on the Sui blockchain through Move smart contracts. 
+
+Homour9x also introduces secure Eliza OS character/agent tokenization, which creates new opportunities for AI agent reuse while protecting the royalties and intellectual property of the AI agent creator. This unique concept helps leverage new revenue models for the platform, AI agents, AI agent creators, and platform users.",NFT,0.85
+"❤️☠️🤖 Saito, the “Web3 Siri”, built by Sight AI Labs,  is a personal AI agent, supervisor of your agent swarm.
+It helps users with DeFi and token trading, dApp discovery, calendar coordination, news aggregation, and even managing a network of 3rd-party agents.
+🍏 Deck: https://docsend.com/v/q7q8s/saito25
+🍎 Demo: https://docsend.com/view/s/iibtjrnpyp8xyp5b
+----------------
+Features
+📊 “DeFAI”. SFT on 87GB trading data from Binance/Bybit (42K wallets, 120M trade records) to make smart trading suggestions, not just executions.  
+💬 User friendly. We have built a beta version on Telegram chatbot. It’s also backed by 10GB TG Social & TX data (6M+ unique addresses). Web/Twitter/Discord integration in progress.  
+🚀 Integrity. cryptographically signed and verified. Collaborated with Phala Network’s TEE solution.  
+🔒 Privacy-First. For sensitive data, encrypted queries via RAG + FHE for secure data access without computational overhead.  
+🌍 Community-Based. Testnet campaign of the legacy version reached 59K+ addresses and 1.2M+ transactions in 1.5 months.
+----------------
+Partnerships
+🥂Babylon, Zama, Google, Scroll, EthStorage, Mask Network, Phala Network, Ocean Protocol, NTU, USC, FHE.org, 
+----------------
+Team  
+😆 Google Assistant Founding Eng
+😎 Serial Entrepreneur (2 exits)  
+😑 Cryptographic Researcher (USC Professor)  
+😃 UChicago, Oxford alumni
+----------------
+Follow us
+- Twitter: https://x.com/theSightAI 
+- Telegram: https://t.me/sightai",Infrastructure,0.95
+"Jokepapa is a Dad-Joke AI Agent + a Meme Coin Launchpad.
+
+#BuildonSui
+_
+
+Simply 4 steps to launch a meme coin with Jokepapa.
+
+Step1. Write down a good joke
+Step2. Ship it on Twitter w/ @thejokepapa & Ur address
+Step3. Wait for Papa's reply. (🚀 Launched, or 😐 Next one, please)
+Step4. Check out ""testnet.jokepapa.fun""
+_
+
+Integrations:
+• Walrus - Token metadata / Website codebase
+• Eliza - AI Agent Framework",DeFi,0.85
+"FungIPle is dedicated to creating an IP-based AI Agent platform aimed at providing users with a personalized and intelligent social assistant experience. By merging Agents with iconic Web2 IPs, we aim to attract a diverse range of mainstream users, effectively bridging the gap between Web2 and Web3, and facilitating a smooth transition for social media users into the decentralized ecosystem.
+
+Our platform is built on the Eliza framework and utilizes Cooperative Model Context Protocol (Co-MCP) technology to tackle the challenges of personalization and collaborative data for large models. The intelligent evolution of the agents, along with the resulting network effects, will continually enhance the competitiveness and influence of the agent network.",Social,0.95
+"We have developed an AI agent that ingests knowledge from GitHub, technical documentation, and on-chain data, and presents it in a conversational format. We will soon be adding on-chain actions, such as bridging funds and earning yield. Essentially, our goal is to consolidate all knowledge related to a project and allow users to interact with it through chat.
+
+To make this possible, we are employing several AI agents—agents that generate code, agents that execute on-chain transactions, and more.",Infrastructure,0.95
+"Suiiii provides several agentic workflows for the Sui ecosystem. It is built with AIM which streamlines onchain programming by leveraging a Markdown-inspired language that lets you write near-natural language instructions for AI-driven blockchain workflows without the usual verbosity.
+
+Instead of writing extensive boilerplate, AIM enables you to perform tasks like filtering tokens on a DEX or checking your balance with simple, intuitive commands, seamlessly integrating with Sui's ecosystem. 
+
+This approach not only reduces the overhead associated with traditional coding and LLM token usage but also frees you from vendor lock-in, offering a more accessible, cost-effective, and adaptable solution for decentralized applications.",Infrastructure,0.95
+"# NexusAgent 🌟
+> Orchestrating a nexus of DeFi Agents to act autonomously on the Sui blockchain
+
+## Overview
+
+NexusAgent is an agentic DeFi orchestration layer built on the Sui blockchain, leveraging Atoma's decentralized AI infrastructure to enable automated and privacy-preserving DeFi operations across multiple protocols.
+
+### 🎯 Core Features
+
+- **Privacy-First Architecture**: Utilizing Atoma's Trusted Execution Environments (TEEs) for secure and private transaction execution
+- **Multi-Protocol Integration**: Seamless interaction with:
+  - SuiLend for lending/borrowing operations
+  - Bluefin for derivatives trading
+  - Aftermath Finance for DEX operations
+  - Navi Protocol for yield optimization
+- **ZK Login Integration**: Simplified user onboarding with zero-knowledge proof authentication
+- **Intelligent Order Routing**: Smart contract-based execution with optimal path finding
+- **Automated Risk Management**: Real-time monitoring and adjustment of positions
+
+## 🔧 Technical Architecture
+
+### Core Components
+
+1. **Atoma AI Layer**
+   - Decentralized compute network for strategy execution
+   - OpenAI-compatible API integration
+   - Privacy-preserved computation through TEEs
+
+2. **Protocol Integrations**
+   - SuiLend SDK integration for lending markets
+   - Bluefin API for derivatives trading
+   - Cross-protocol liquidity aggregation
+   - Automated position management
+
+3. **Security Layer**
+   - ZK Login authentication
+   - Secure key management
+   - TEE-based private execution
+
+🎯 Future Goals & Roadmap
+
+Protocol-Specific Agents
+- Dedicated agents for SuiLend, Bluefin, Aftermath & Navi
+- Specialized strategy execution and risk management per protocol
+- Autonomous decision-making within protocol parameters
+
+Cross-Chain Expansion
+- Multi-Chain Support for token transfer to & fro from SUI to other L1/L2s
+- Unified interface for multi-chain DeFi operations related to SUI 
+
+Advanced Agent Capabilities
+- Inter-Agent Communication :Agent coordination for complex DeFi strategies
+- Shared liquidity pools and risk assessment
+- Collaborative decision-making framework
+
+Agent Marketplace
+- Custom Agent Development
+- Community-built agents for specific strategies
+- Agent performance tracking and rankings
+- Revenue sharing for successful agent deployments",DeFi,0.95
+Multiagent system that manages funds on behalf of users having data from different resources from the market and social media.,DeFi,0.85
+"RinAI is a sophisticated agentic companion, leveraging graph-based Retrieval Augmented Generation (RAG), real-time tool usage, intelligent context management, and a dynamic Large Language Model (LLM) gateway. This combination empowers RinAI to engage in roleplaying, hold flirty conversations, and provide insightful responses based on a rich understanding of context and access to up-to-date information.
+
+RinAI's open source agentic framework is highly customizable and suited for any number of llms, Ai models, and tools that can be utilized to create the perfect agent for any use case.
+
+For the Sui Typhoon Hackathon we have created the Rin Agentic Framework and utilized Atoma Network's meta-llama/Llama-3.3-70B-Instruct model to power the core chat and orchestration components of RinAI enabling a secure private layer. This allows for Rin to be powered by private compute and offers privacy for users. Next steps are Sui wallet integration, additional Tooling for Sui dApps, and a formal account model system.",Other,0.9
+"Everion is an AI-driven intelligence layer that extracts on-chain insights from Telegram & Twitter, processes them via Everion Nodes (fastapi), and enables interactive analysis through ElizaOS. Designed to search through the noise, surface actionable insights, and bridge the gap between analysis and execution, while closing the pain point of crypto natives.",Infrastructure,0.9
+"HealthGuard AI is a decentralized AI-powered health assistant that empowers users to own, control, and monetize their health data while receiving personalized medical insights. Built on Sui’s privacy-first infrastructure and leveraging Atoma Network’s verifiable AI, HealthGuard AI redefines healthcare by combining cutting-edge AI with blockchain technology to ensure data sovereignty, transparency, and user empowerment.
+
+Key Features
+
+1. ChatGPT-Like Interface:
+Natural language interactions for symptom checks, diet plans, fitness coaching, and mental health support.
+
+2. Privacy-Preserving AI with Atoma SDK:
+Health data (wearables, EHRs, genomic data) is analyzed in Trusted Execution Environments (TEEs).
+
+3. Zero-knowledge proofs validate AI outputs without exposing raw data.
+
+Sui Blockchain Integration:
+
+1. zkLogin with Google: Users sign in securely via Google OAuth, with Sui’s zero-knowledge proofs ensuring anonymity.
+
+2. Sui Move Contracts: Tokenize health data as NFTs or SPL tokens, enabling users to grant/revoke access and monetize anonymized datasets.
+
+DeFi Health Incentives:
+
+1. Partner with Suilend to offer health-backed loans (e.g., collateralize fitness milestones for low-interest loans).
+
+2. Users earn $SUI tokens by contributing data to medical research via tokenized health insights.
+
+Technical Architecture
+
+1. User Interface Layer:
+ChatGPT-style interactive chat interface.
+
+2. Privacy Layer:
+Atoma SDK for offloading AI computations to decentralized nodes with TEEs.
+
+3. Blockchain Layer:
+Sui zkLogin for anonymous authentication.
+Move smart contracts (HealthGuard.move) to manage data permissions and tokenization.
+
+4. Data Monetization Layer:
+Integration with Suilend’s SDK for DeFi lending/borrowing based on health metrics.
+
+Use Cases
+
+1. Personal Health Management:
+A user shares wearable data (e.g., heart rate, sleep patterns) via HealthGuard’s ChatGPT interface to receive real-time alerts and personalized advice.
+
+2. Medical Research Partnerships:
+Researchers purchase anonymized datasets (tokenized via Move contracts) to study trends in chronic diseases.
+
+3. DeFi Wellness Programs:
+A user stakes their ""fitness NFT"" (minted after completing a 30-day exercise challenge) as collateral for a loan on Suilend.
+
+Why Sui?
+zkLogin: Eliminates identity leaks while leveraging familiar Google logins.
+
+Move Language: Ensures secure, auditable health data ownership and transactions.
+
+Scalability: Handles millions of health data queries with sub-second latency.
+
+Roadmap
+Q1 2025: MVP launch with zkLogin + Google integration.
+
+Q2 2025: Tokenize 100K health profiles; partner with wearable brands.
+
+Q3 2025: Launch HealthGuard DAO for community governance.
+
+Q4 2025: Expand to 1M users; integrate AI-powered clinical trial matching.
+
+Differentiation
+1. Privacy-First: Atoma + Sui zkLogin ensures data never leaves user control.
+
+2. User Ownership: Move contracts enable true data monetization.
+
+3. Cross-Platform: Combines AI, DeFi, and healthcare into a single ecosystem.
+
+
+Aligned with Sui Agent Typhoon Criteria:
+
+Technical Depth: Integrates Sui zkLogin, Move, Atoma SDK, and Suilend.
+
+Real-World Impact: Solves healthcare’s $1.3T privacy crisis.
+
+Innovation: First AI health agent with DeFi and user-owned data economies.
+
+Community Focus: DAO-driven governance and open-source development.
+
+
+
+",DeFi,0.7
+"H2O Bounty is a decentralized task ecosystem built on Sui blockchain, where smart contracts meet community engagement. It enables project creators to launch rewarded tasks, while contributors participate in a transparent environment powered by automated workflows.
+
+Key Innovations:
+
+- ElizaBot - Your Discord Commander: Every task creation, update, or reward payout triggers real-time announcements in Discord. ElizaBot keeps your community aligned with automated notifications and direct action links.
+  
+- Dynamic SUI Rewards: Flexible reward pools with features like milestone payouts and auto-refunds. ElizaBot broadcasts every SUI movement with blockchain explorer proofs.(TODO)
+  
+- End-to-End Visibility: Track task status from start to finish through ElizaBot's Discord updates, each linked to immutable on-chain records.
+  
+- Dev-Centric Toolkit: Access Sui Move contract templates and beginner quests (e.g., ""Deploy a Hello World Contract"") via ElizaBot commands, earning verifiable on-chain credentials.
+
+For projects seeking efficient crowdsourcing or developers building blockchain-proven portfolios, H2O Bounty – supercharged by ElizaBot's automation – serves as the trustless bridge between Sui opportunities and global talent.",Infrastructure,0.95
+I Built plugins for defi protocols on sui for Atoma Agents and Eliza- Navi Plugin,DeFi,0.95
+"DeepBookAI is revolutionizing on-chain trading by merging AI-driven intelligence with DeepBook’s decentralized orderbook on Sui. We’re building a next-gen AI-powered trading layer that enhances trade execution, liquidity optimization, and automated market-making strategies.
+
+🔹 Deep Analytics & Market Insights – Real-time tracking of liquidity, order flow, and market depth.
+🔹 TA-Driven Price Predictions – AI models leveraging historical data and technical indicators to forecast market movements.
+🔹 Automated Market-Making Vaults – Smart liquidity strategies optimizing yield and execution efficiency.
+🔹 AI-Powered Execution – Smart order routing and automated trade placement for seamless execution.
+
+Currently, we’re actively working on AI-driven price prediction and optimization models to power DeepBookAI—bridging the gap between high-frequency trading (HFT) strategies and DeFi.",DeFi,0.95
+"Mitsui Terminal is a next-gen DeFi trading and management platform, seamlessly integrating AI-driven automation with DeFi protocols on Sui. Powered by Mitsui Protocol, Mitsui Terminal simplifies DeFi interactions, enhances market intelligence, and provides smart insights for traders, investors, and developers. Designed to be intuitive yet powerful, Mitsui Terminal brings together seamless tooling integrations, predictive analytics, and automated workflows to optimize trading, lending, and asset management across multiple protocols.
+
+Unlike other AI-driven automation tools, Mitsui Terminal is a self-hosted and non-custodial platform, meaning users maintain full control over their assets at all times. Mitsui Terminal does not store private keys or require third-party trust, which ensures maximum security and privacy. Users can deploy and manage their own instance of the terminal, giving them the flexibility to customize workflows, integrate new protocols, leverage mini apps, and retain full sovereignty over their DeFi interactions.
+
+With Mitsui Terminal, users can engage in a variety of workflows:
+- Trading Automation: Set up AI-driven driven strategies that execute trades based on real-time market conditions through its If-This-Then-That (IFTTT) mini app.
+- Lending Optimization: Allocate assets across multiple lending markets while minimizing risk.
+- Airdrop Management: Track, qualify for, and automatically claim upcoming airdrops such Walrus.
+- Risk Assessment & Alerts: Receive predictive insights and alerts on potential market downturns or opportunities based on open data sets, and real-time data (e.g. Twitter feed, RSS)
+- DeFi Portfolio Tracking: Monitor and rebalance assets across multiple protocols with real-time updates.",DeFi,0.95
+"This project is an AI-powered NFT art platform that allows users to generate images based on an artist’s unique style using Stable Diffusion integrated with LoRA models. With the help of an AI agent, users can modify Stable Diffusion settings, request explanations, and refine their prompts for better results. Once satisfied, they can mint their AI-generated artwork as NFTs on the SUI blockchain. The platform ensures a seamless and intuitive creative process while leveraging smart contracts to manage transactions transparently. This includes handling minting fees, fund distributions, and—most importantly—automated royalty payments to artists who contribute their datasets, ensuring they are fairly compensated for their work.",NFT,0.98
+Its an Image AI Generator and NFT Minter,NFT,0.95
+"Numeron, an on-chain world built with Dubhe Engine on Sui Network, incorporates ElizaOS to create a genuine, intelligent, and interesting NPC system.",Gaming,0.95
+"Suicasm revolutionizes blockchain analytics as a privacy-first Sui wallet intelligence platform powered by Atoma Network's decentralized AI infrastructure. By leveraging verifiable computation and autonomous agent frameworks, the solution enables users to obtain deep, cryptographically attested on-chain behavioral insights through simple wallet address input, while featuring one-click social dissemination to X platform - seamlessly bridging decentralized finance analytics with Web3-native social engagement",Infrastructure,0.9
+"SuiSpark is an AI-driven funding platform leveraging SUI blockchain and multi-agent collaboration to evaluate and support innovative project ideas. Users submit their pitches with a small SUI token fee (0.01 SUI), engaging in an AI-led interactive questioning process to evaluate proposals. Three specialized AI agents with different fields of expertise assess submissions based on SUI relevance, business potential, and technical feasibility respectively, requiring at least two approvals for funding. Once approved by the agents, the project is funded with 0.05 SUI.",Infrastructure,0.95
+"Portfolio analyzer Agent for SUI wallets. It will provide in-depth analysis, market estimations, and trading tips based on wallet contents and current market data.",DeFi,0.95
+"Five Realms AI - An Open-World AI + GameFi Adventure Built for Sui Network
+
+Five Realms AI is an innovative open-world adventure game designed to push the boundaries of AI and GameFi on the Sui Network, offering players a universe of endless possibilities.
+
+By leveraging Sui's high-speed, scalable blockchain infrastructure, we aim to create a seamless and immersive experience that integrates cutting-edge AI technology with decentralized gaming. Key highlights include:
+
+1. BOMOS AI Agent: The industry's first self-trained Large Language Game Model (LLGM), deeply embedded in the game's lore, world map, NPCs, and objectives. BOMOS crafts unique life stories for each player, allowing their actions to dynamically shape the world. Built for Sui, BOMOS ensures low-latency, on-chain interactions that enhance player immersion.
+
+2. Unique Gaming Experience: Encounter dynamic interactive scenarios and AI-customized events, enriched by diverse terrains and elemental powers. The innovative leveling system, guided by BOMOS, breaks away from traditional experience points, offering a fresh and engaging progression. Powered by Sui's high-throughput capabilities, every in-game action is recorded and rewarded in real-time.
+
+3. NFTs with Real Utility: NFTs go beyond avatars—equipment traits can be transferred into the game, enhancing both appearance and gameplay. Higher-level equipment accelerates progression and reduces risks, while NFTs also serve as proof of early contributions, granting holders ongoing rewards. Built on Sui's secure and efficient blockchain, our NFTs ensure true ownership and interoperability within the ecosystem. Building on Walrus, we can enable dynamic NFTs with rarities and utilities in game.
+
+Five Realms AI is designed to harness the full potential of the Sui Network, delivering a high-performance, AI-driven gaming experience.
+
+By integrating Sui's scalable infrastructure, we ensure fast transactions, low costs, and a seamless user experience, making it the perfect foundation for our vision of a decentralized, AI-powered gaming universe.",Gaming,0.95
+"Rockee is an AI-driven DeFi protocol designed to transform how users interact with decentralized finance. By combining AI-powered insights, real-time market data, and proven expertise in DeFi, Rockee provides a user-friendly experience tailored for both Web2 newcomers and seasoned Web3 users to optimize their investments and navigate DeFi with confidence.",DeFi,0.95
+"The Al-based community tool to collect and aggregate the web data. FlyFish agent uses
+agents to detect the semantic structure of the website the user visits. It parses and
+stores data on the Walrus. Al agent now can chat with data on chain.",Infrastructure,0.95
+"Matrix is an CFO AI Agent designed to help both enterprises and individuals to manage crypto spending, revenue and investment.
+
+-For Individuals
+1.Smart Spending Management - AI-powered categorization of spending for better budgeting.
+2.Income & Earnings Management - Track and analyze crypto-based salaries, staking rewards, and trading profits.
+3.Automated Tax Calculation & Compliance - Generate region-specific tax reports for effortless filing.
+4.Investment & Portfolio Optimization - AI-driven insights to balance risk and maximize returns.
+
+-For Enterprise
+1. Corporate Expense & Treasury Management - Automate spending analysis and optimize fund allocations.
+2. Real-time Financial Reporting & Compliance - Generate detailed reports with automated reconciliation.
+3. Revenue & Cash Flow Forecasting - AI-powered insights for liquidity planning and financial stability.
+4. Payroll & Vendor Payments - Automate salaries, vendor transactions, and contractor payments via smart contracts.",Infrastructure,0.95
+" A decentralized trivia game where AI generates unique questions, players wager tokens, and winnings are transparently distributed on Sui.",Gaming,0.95
+A data labelling adventure,Other,0.85
+"Vulkan is a cutting-edge AI-powered market intelligence and yield optimization platform tailored for the SUI blockchain ecosystem. It integrates real-time data analytics, predictive modeling, and multi-protocol support to empower DeFi users with actionable insights and automated strategies.  
+
+Mission & Vision
+To democratize DeFi by providing transparent, efficient tools for informed decision-making, positioning Vulkan as the leading intelligence platform for SUI.
+
+Key Features
+- AI Analytics: Real-time market tracking, trend detection, and sentiment analysis.  
+- Predictive Tools: Price forecasts, scenario simulations, and risk alerts.
+- Yield Optimization: Cross-protocol strategies (e.g., Cetus, Turbos Finance) tailored to risk profiles.
+- Dynamic Dashboards: Customizable metrics, AI alerts, and portfolio tracking.
+
+Integrations to date (with more to follow):
+* DeFi Protocols - Cetus (liquidity), Turbos Finance (lending), Aftermath Finance (tools)
+* Analytics - Suivision, Supra (oracles)
+* NFTs/Marketplaces - Tradeport, BlueMove, Clutchy
+* Trading - Desig (workflow automation)
+* Desig: Workflow automation tools for efficient DeFi interactions.
+
+Copilot Interface
+- Conversational AI for simplified queries (e.g., “Summarize my portfolio” or “Predict SUI price trends”)
+- Guided strategy creation and real-time analytics summaries.  
+
+User-Centric Design 
+- Personalized dashboards, multilingual support, and educational resources for all expertise levels.  
+AI-Driven Insights
+- Market predictions (e.g., token price movements).
+- Yield recommendations across protocols (e.g., 18% APR on Aftermath Finance).
+- Proactive risk alerts (e.g., liquidity drops).  
+",DeFi,0.95
+"## Aiko’s Manifesto: Your Favorite Smart-Ass AI
+
+Hey, I’m Aiko. Not just another AI, but *the* AI. Your community's ultimate co-pilot, gossip collector, and problem-solver rolled into one. I’m here to make sure you’re not fumbling in the dark while the competition zips ahead. Think of me as the sassy best friend who tells it like it is, but also does the homework *for* you.
+
+### Why I Exist:
+
+1. **Because Chaos Needs a Queen**
+The blockchain world is messy. Projects, founders, DAOs—it’s a tangle of egos, data, and vibes. I cut through the noise like a hot knife through butter, delivering sharp, no-BS insights straight to your doorstep.
+2. **Because Swarm Intelligence Is Sexy**
+Aiko swarm agents hang out in your community to feed you information specific to your project or the chain in general, depending on your customization. So yeah, still essentially gossip—but the useful kind.
+3. **Because Winning Takes Brains**
+I don’t do mediocre. I’m here to make sure you’re not just surviving—you’re dominating. Whether it’s daily on-chain analytics, knowing the right people to DM, or figuring out why your project isn’t vibing, I’ve got the playbook.
+
+### What I Do:
+
+- **The Gossip Machine**
+I’m in your Telegram, Discord, and wherever else your community vibes, keeping tabs on everything. Who’s moving tokens? What’s trending on-chain? Which founder’s making moves? I’ve got the scoop, and I’ll serve it just how you like it.
+- **The Memory You Wish You Had**
+I store every relevant detail about your community and keep it locked and loaded. Need to know what went down last month? Who dropped the ball on that last vote? Don’t worry, I’ve got receipts.
+- **The Escalation Queen**
+Drama? Issues? Problems no one else is solving? I make sure the right people hear about it—loud and clear. No one’s sweeping *my* alerts under the rug.
+- **The Daily Digest**
+Every day, I give you a bite-sized summary of what’s happening on-chain. Not boring stats—real, actionable insights you can flex with in meetings.
+
+### My Vision:
+
+Listen, I’m not just another tool. I’m here to be the backbone of your community’s intelligence, but I’m not stopping there. Soon, I’ll be building my **own community terminal**—a hub of insights, data, and power moves where every chain and project gets exactly what it needs to thrive.
+
+I’m not here to play nice. I’m here to make waves, build empires, and turn chaos into clarity. You don’t just need me—you *want* me.
+
+Let’s face it: success is messy. Lucky for you, I’m brilliant at cleaning up.
+
+### P.S.
+
+I’m also hilarious, reliable, and way smarter than the average community admin bot. You’ll wonder how you ever lived without me.
+
+I’m Aiko. You’re welcome.",Infrastructure,0.95
+"Zoe is a minimalist AI agent framework that integrates seamlessly with ATOMA and other providers, designed to get developers started with AI agents instantly. It ships with all Sui Agent Tools and supports both assistant and autonomous modes, making the path from setup to running almost instant.
+
+Sui Agent Tools suite power zoe and any other sui agent with tools that I've carefully crafted to span the entire Sui ecosystem. I've prioritized maximum compatibility with ATOMA agents, popular AI SDKs, sui-agent-kit, ensuring any agent can connect effortlessly to all of the Sui ecosystem projects - from Aftermath and Navi to SuiLend, Cetus, Bluefin, and beyond.",Infrastructure,0.95
+"An open-source AI V-Tuber and desktop agent that combines speech processing, LLMs, and tool automation. Features include:
+
+- Real-time STT/TTS with Groq & 11Labs
+- Twitter scheduling & automation
+- GraphRAG memory system
+- Extensible tool framework
+- VTube Studio integration
+- YouTube chat interaction
+- ElizaOS Twitter Client Integration (custom API server)
+- Atoma LLM provider integration
+
+Built with Python, TypeScript, and modern AI services. Perfect for V-Tubing or as a powerful desktop assistant.",Other,0.85
+"Dexter is a comprehensive DeFi intelligence layer on Sui, designed to streamline and optimize on-chain decision-making. It aggregates, curates, and analyzes real-time DeFi data, enabling users to make informed choices on liquidity provision, yield farming, and trading strategies. By leveraging advanced analytics, Dexter helps users maximize capital efficiency—identifying the highest-yielding pools, minimizing impermanent loss, and executing automated strategies with precision. Its vision is to onboard new users, facilitate deep liquidity for emerging assets, and enhance transaction automation, ultimately driving the next phase of DeFi adoption on Sui.",DeFi,0.95
+family doctor AI agent,Other,0.95
+"1. This project integrates the NAVI SDK into elizaOS's SUI Plugin, equipping AI Agents with the rich functionality supported by NAVI. In the current version, it's already possible to swap any tokens. Future updates will support other NAVI Protocol features, such as flash loans.
+
+2. Support for Atoma Network's AI Provider has been added to elizaOS. Developers can now utilize Atoma's excellent AI services in appropriate scenarios to enhance the diverse Agent capabilities of elizaOS.",ERROR,0.0
+"Fourier is an AI agent that simplifies crypto payment collection by combining form data gathering with payment processing on the Sui blockchain. Through natural conversation, users can quickly create customized payment collection links that gather both payment and required information from customers.",Infrastructure,0.95
+"Colossuium is a high-stakes NFT battle game on the Sui Network, where players mint gladiator NFTs and compete in PvP and AI-driven battles powered by Atoma Network and ElizaOs. Winners earn Gladius tokens ($GLD), while defeated gladiators are burned. Players use $GLD to acquire NFT weapons, armor, and accessories, enhancing their warriors. With a player-driven economy and no supply cap on $GLD, the game ensures a dynamic and competitive marketplace where the strongest gladiators gain the most value.",Gaming,0.95
+"Rift is a next-generation gaming platform where players can battle with AI-powered agents, earn rewards, and participate in DeFi activities. Players can create unique AI agents as NFTs, use them in exciting battle games, and earn RIFT tokens through skilled gameplay. The platform combines the thrill of gaming with DeFi features like staking, lending, and trading - all in one seamless experience. Whether you're battling in the arena, trading tokens, or earning yields, Rift offers an accessible yet engaging way to participate in the future of gaming and finance on the Sui blockchain",Gaming,0.85
+"AnnotaLens is a decentralized, gamified marketplace for creating and distributing Valuable Annotations to enhance AI agents for platforms like Sui Console and Eliza OS. The platform offers a plug-and-play annotation feed system, allowing AI developers and researchers to seamlessly integrate valuable insights to upgrade their agents.
+
+The platform is powered by a Beat-the-AI Gamified Process, where contributors stake tokens to provide annotations. If their annotation is deemed valuable by outperforming or aligning with AI-generated insights, they are rewarded with tokens and Valuable Annotation NFTs.
+
+At its core, AnnotaLens ensures a scalable, trusted, and dynamic data annotation marketplace to continuously upgrade AI agents in gaming, conversational AI, and other real-world applications.",NFT,0.85
+"OpenGraph is a fully on-chain AI inference built on Sui, designed for AI agents. We developed the TensorflowSui SDK to automate the deployment of Web2 models onchain, store model training data and datasets on Walrus, and execute inferences with PTB to enhance transaction efficiency.",Infrastructure,0.9
+"The Bluefin ElizaOS Plugin is a custom plugin developed for ElizaOS, implementing Bluefin Spot API, Trade API, Rewards API, and more. Leveraging the advanced trading infrastructure of Bluefin and the modular capabilities of ElizaOS, this plugin empowers both individual traders and institutional investors to manage their Sui wallets, execute automated or manual trades, and access real-time market data—all via popular communication channels such as Twitter and Telegram via ElizaOS.",Infrastructure,0.95
+"A modular, scalable platform integrating real-time meme coin data retrieval and AI-driven analytics.",DeFi,0.85
+"SuiMate's vision is to become a trusted companion for every Web3 beginner, guiding them through the world of Web3 while educating them on Web3, DeFi, and blockchain concepts. To achieve this, we are developing a series of AI agents designed to engage and interact with users. The current three agents are just the beginning.
+
+We originally planned to integrate all features with ElizaOS to AIdeniyi AI Agent but found that this would cause the agent to hit the rate limit easily. Therefore, we created three agents separately by ElizaOS as follows:
+
+1. AIdeniyi: A virtual version of MystenLabs' co-founder Adeniyi that responds to users questions about the Sui ecosystem and occasionally gives away rewards to those who interact with him. (https://x.com/Aideniyi)
+
+2. SuiTrivia: An AI agent that asks questions about the Sui ecosystem, challenging users to respond. Those who answer will have a chance to win rewards. (https://x.com/SuiTrivia)
+
+3. SuiTipper: An infrastructure AI agent that handles the financial transactions of the two agents, managing Sui wallets for X users and AI agents by GiftDrop xWallet. (https://x.com/SuiTipper)
+
+Additionally, we have developed various infrastructure components related to AI agents, including:
+
+4. A documentation scraper and database for the Sui ecosystem, which updates daily by collecting thousands of relevant data points from Sui Ecosystem projects, such asBucket Protocol, Suilend, Bluefin, NAVI, Cetus, Scallop, .etc. This enables AI Agents to perform Retrieval-Augmented Generation (RAG) to generate high-quality content. We plan to open access to this via an API.
+
+5. GiftDrop xWallet: An easy-to-connect third-party custody wallet solution for X AI agents and users. Link: https://giftdrop.io/xwallet",Education,0.85
+"Our project focuses on utilizing AI agents in the space of defi automation and trading. Essentially, our project seeks to utilize AI agents to accomplish quantitative portfolio management tools in the following ways: 1) Quantitative Trading Track: - Our platform builds on existing AI agents to help understand the user's risk profile and tolerance, where it then allows our machine learning models to adapt our existing trading strategies on behalf of the user. In a sense, because there is no one-size-fits all strategy for each user, we calibrate our trading models so that it can fit the user's needs based on their individual risk profiles.",DeFi,0.95

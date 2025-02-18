@@ -1,0 +1,533 @@
+2025-02-17 22:52:00,900 - INFO - Logging initialized
+2025-02-17 22:52:00,900 - INFO - Starting analysis
+2025-02-17 22:52:00,900 - INFO - Reading CSV file
+2025-02-17 22:52:00,903 - INFO - Found 169 descriptions to analyze
+2025-02-17 22:52:00,903 - INFO - Processing description 1/169
+2025-02-17 22:52:02,060 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:02,067 - INFO - Successfully categorized as: Other (confidence: 0.85)
+2025-02-17 22:52:03,068 - INFO - Processing description 2/169
+2025-02-17 22:52:04,479 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:04,482 - INFO - Successfully categorized as: DeFi (confidence: 0.9)
+2025-02-17 22:52:05,487 - INFO - Processing description 3/169
+2025-02-17 22:52:06,173 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:06,188 - INFO - Successfully categorized as: DeFi (confidence: 0.85)
+2025-02-17 22:52:07,191 - INFO - Processing description 4/169
+2025-02-17 22:52:07,956 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:07,958 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:52:08,960 - INFO - Processing description 5/169
+2025-02-17 22:52:09,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:09,978 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:52:10,980 - INFO - Processing description 6/169
+2025-02-17 22:52:12,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:12,868 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:52:13,874 - INFO - Processing description 7/169
+2025-02-17 22:52:14,820 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:14,823 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:52:15,825 - INFO - Processing description 8/169
+2025-02-17 22:52:16,750 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:16,752 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:52:17,756 - INFO - Processing description 9/169
+2025-02-17 22:52:18,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:18,898 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:52:19,904 - INFO - Processing description 10/169
+2025-02-17 22:52:21,766 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:21,768 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:52:22,772 - INFO - Processing description 11/169
+2025-02-17 22:52:24,077 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:24,080 - INFO - Successfully categorized as: Other (confidence: 0.95)
+2025-02-17 22:52:25,084 - INFO - Processing description 12/169
+2025-02-17 22:52:25,837 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:25,840 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:52:26,846 - INFO - Processing description 13/169
+2025-02-17 22:52:30,695 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:30,697 - INFO - Successfully categorized as: NFT (confidence: 0.9)
+2025-02-17 22:52:31,703 - INFO - Processing description 14/169
+2025-02-17 22:52:33,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:33,249 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:52:34,253 - INFO - Processing description 15/169
+2025-02-17 22:52:35,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:35,508 - INFO - Successfully categorized as: NFT (confidence: 0.95)
+2025-02-17 22:52:36,512 - INFO - Processing description 16/169
+2025-02-17 22:52:37,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:37,608 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:52:38,614 - INFO - Processing description 17/169
+2025-02-17 22:52:39,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:39,680 - INFO - Successfully categorized as: NFT (confidence: 0.95)
+2025-02-17 22:52:40,685 - INFO - Processing description 18/169
+2025-02-17 22:52:41,630 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:41,633 - INFO - Successfully categorized as: Other (confidence: 0.95)
+2025-02-17 22:52:42,636 - INFO - Processing description 19/169
+2025-02-17 22:52:43,891 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:43,893 - INFO - Successfully categorized as: Gaming (confidence: 0.9)
+2025-02-17 22:52:44,896 - INFO - Processing description 20/169
+2025-02-17 22:52:45,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:45,952 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:52:46,957 - INFO - Processing description 21/169
+2025-02-17 22:52:48,591 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:48,594 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:52:49,594 - INFO - Processing description 22/169
+2025-02-17 22:52:50,616 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:50,627 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:52:51,632 - INFO - Processing description 23/169
+2025-02-17 22:52:52,882 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:52,889 - INFO - Successfully categorized as: Social (confidence: 0.95)
+2025-02-17 22:52:53,891 - INFO - Processing description 24/169
+2025-02-17 22:52:54,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:54,661 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:52:55,667 - INFO - Processing description 25/169
+2025-02-17 22:52:56,827 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:56,835 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:52:57,836 - INFO - Processing description 26/169
+2025-02-17 22:52:58,974 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:52:58,976 - INFO - Successfully categorized as: Security (confidence: 0.95)
+2025-02-17 22:52:59,981 - INFO - Processing description 27/169
+2025-02-17 22:53:01,112 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:01,113 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:53:02,118 - INFO - Processing description 28/169
+2025-02-17 22:53:03,225 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:03,228 - INFO - Successfully categorized as: Security (confidence: 0.95)
+2025-02-17 22:53:04,232 - INFO - Processing description 29/169
+2025-02-17 22:53:04,930 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:04,931 - INFO - Successfully categorized as: NFT (confidence: 0.98)
+2025-02-17 22:53:05,936 - INFO - Processing description 30/169
+2025-02-17 22:53:07,560 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:07,562 - INFO - Successfully categorized as: Gaming (confidence: 0.85)
+2025-02-17 22:53:08,566 - INFO - Processing description 31/169
+2025-02-17 22:53:10,266 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:10,267 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:53:11,271 - INFO - Processing description 32/169
+2025-02-17 22:53:12,514 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:12,516 - INFO - Successfully categorized as: Education (confidence: 0.95)
+2025-02-17 22:53:13,521 - INFO - Processing description 33/169
+2025-02-17 22:53:14,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:14,303 - INFO - Successfully categorized as: Other (confidence: 0.95)
+2025-02-17 22:53:15,308 - INFO - Processing description 34/169
+2025-02-17 22:53:16,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:16,559 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:53:17,565 - INFO - Processing description 35/169
+2025-02-17 22:53:18,861 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:18,863 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:53:19,868 - INFO - Processing description 36/169
+2025-02-17 22:53:21,463 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:21,464 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:53:22,469 - INFO - Processing description 37/169
+2025-02-17 22:53:23,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:23,541 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:53:24,544 - INFO - Processing description 38/169
+2025-02-17 22:53:26,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:26,924 - INFO - Successfully categorized as: Gaming (confidence: 0.85)
+2025-02-17 22:53:27,929 - INFO - Processing description 39/169
+2025-02-17 22:53:29,323 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:29,325 - INFO - Successfully categorized as: Other (confidence: 0.85)
+2025-02-17 22:53:30,329 - INFO - Processing description 40/169
+2025-02-17 22:53:31,455 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:31,472 - INFO - Successfully categorized as: Infrastructure (confidence: 0.85)
+2025-02-17 22:53:32,477 - INFO - Processing description 41/169
+2025-02-17 22:53:34,140 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:34,147 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:53:35,151 - INFO - Processing description 42/169
+2025-02-17 22:53:36,311 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:36,317 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:53:37,322 - INFO - Processing description 43/169
+2025-02-17 22:53:41,847 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:41,861 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:53:42,868 - INFO - Processing description 44/169
+2025-02-17 22:53:44,333 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:44,343 - INFO - Successfully categorized as: DeFi (confidence: 0.85)
+2025-02-17 22:53:45,348 - INFO - Processing description 45/169
+2025-02-17 22:53:47,066 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:47,073 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:53:48,079 - INFO - Processing description 46/169
+2025-02-17 22:53:49,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:49,499 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:53:50,504 - INFO - Processing description 47/169
+2025-02-17 22:53:51,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:51,678 - INFO - Successfully categorized as: Gaming (confidence: 0.7)
+2025-02-17 22:53:52,680 - INFO - Processing description 48/169
+2025-02-17 22:53:54,395 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:54,398 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:53:55,401 - INFO - Processing description 49/169
+2025-02-17 22:53:56,612 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:56,615 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:53:57,620 - INFO - Processing description 50/169
+2025-02-17 22:53:58,614 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:53:58,620 - INFO - Successfully categorized as: DeFi (confidence: 0.9)
+2025-02-17 22:53:59,626 - INFO - Processing description 51/169
+2025-02-17 22:54:01,011 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:01,012 - INFO - Successfully categorized as: Security (confidence: 0.95)
+2025-02-17 22:54:02,017 - INFO - Processing description 52/169
+2025-02-17 22:54:03,819 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:03,823 - INFO - Successfully categorized as: DeFi (confidence: 0.9)
+2025-02-17 22:54:04,828 - INFO - Processing description 53/169
+2025-02-17 22:54:06,170 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:06,180 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:54:07,185 - INFO - Processing description 54/169
+2025-02-17 22:54:08,838 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:08,844 - INFO - Successfully categorized as: Gaming (confidence: 0.85)
+2025-02-17 22:54:09,848 - INFO - Processing description 55/169
+2025-02-17 22:54:10,868 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:10,874 - INFO - Successfully categorized as: Social (confidence: 0.95)
+2025-02-17 22:54:11,878 - INFO - Processing description 56/169
+2025-02-17 22:54:12,937 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:12,940 - INFO - Successfully categorized as: Security (confidence: 0.98)
+2025-02-17 22:54:13,941 - INFO - Processing description 57/169
+2025-02-17 22:54:14,642 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:14,645 - INFO - Successfully categorized as: Gaming (confidence: 0.85)
+2025-02-17 22:54:15,647 - INFO - Processing description 58/169
+2025-02-17 22:54:16,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:16,585 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:54:17,586 - INFO - Processing description 59/169
+2025-02-17 22:54:19,129 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:19,132 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:54:20,137 - INFO - Processing description 60/169
+2025-02-17 22:54:21,129 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:21,130 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:54:22,135 - INFO - Processing description 61/169
+2025-02-17 22:54:22,883 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:22,887 - INFO - Successfully categorized as: Other (confidence: 0.95)
+2025-02-17 22:54:23,892 - INFO - Processing description 62/169
+2025-02-17 22:54:25,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:25,640 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:54:26,644 - INFO - Processing description 63/169
+2025-02-17 22:54:28,701 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:28,703 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:54:29,708 - INFO - Processing description 64/169
+2025-02-17 22:54:30,375 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:30,377 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:54:31,381 - INFO - Processing description 65/169
+2025-02-17 22:54:32,290 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:32,292 - INFO - Successfully categorized as: Security (confidence: 0.95)
+2025-02-17 22:54:33,296 - INFO - Processing description 66/169
+2025-02-17 22:54:34,079 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:34,082 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:54:35,088 - INFO - Processing description 67/169
+2025-02-17 22:54:37,058 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:37,060 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:54:38,065 - INFO - Processing description 68/169
+2025-02-17 22:54:39,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:39,286 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:54:40,291 - INFO - Processing description 69/169
+2025-02-17 22:54:41,294 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:41,302 - INFO - Successfully categorized as: Infrastructure (confidence: 0.85)
+2025-02-17 22:54:42,308 - INFO - Processing description 70/169
+2025-02-17 22:54:42,946 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:42,949 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:54:43,951 - INFO - Processing description 71/169
+2025-02-17 22:54:45,465 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:45,472 - INFO - Successfully categorized as: Infrastructure (confidence: 0.85)
+2025-02-17 22:54:46,475 - INFO - Processing description 72/169
+2025-02-17 22:54:47,688 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:47,691 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:54:48,695 - INFO - Processing description 73/169
+2025-02-17 22:54:50,366 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:50,369 - INFO - Successfully categorized as: Social (confidence: 0.9)
+2025-02-17 22:54:51,372 - INFO - Processing description 74/169
+2025-02-17 22:54:53,020 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:53,022 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:54:54,028 - INFO - Processing description 75/169
+2025-02-17 22:54:55,223 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:55,225 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:54:56,230 - INFO - Processing description 76/169
+2025-02-17 22:54:58,182 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:54:58,186 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:54:59,191 - INFO - Processing description 77/169
+2025-02-17 22:55:00,161 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:00,165 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:55:01,168 - INFO - Processing description 78/169
+2025-02-17 22:55:02,191 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:02,205 - INFO - Successfully categorized as: Other (confidence: 0.85)
+2025-02-17 22:55:03,209 - INFO - Processing description 79/169
+2025-02-17 22:55:04,457 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:04,459 - INFO - Successfully categorized as: DeFi (confidence: 0.85)
+2025-02-17 22:55:05,464 - INFO - Processing description 80/169
+2025-02-17 22:55:06,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:06,658 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:55:07,659 - INFO - Processing description 81/169
+2025-02-17 22:55:08,676 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:08,678 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:55:09,683 - INFO - Processing description 82/169
+2025-02-17 22:55:11,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:11,101 - INFO - Successfully categorized as: NFT (confidence: 0.95)
+2025-02-17 22:55:12,107 - INFO - Processing description 83/169
+2025-02-17 22:55:13,917 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:13,919 - INFO - Successfully categorized as: NFT (confidence: 0.85)
+2025-02-17 22:55:14,924 - INFO - Processing description 84/169
+2025-02-17 22:55:15,712 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:15,714 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:55:16,720 - INFO - Processing description 85/169
+2025-02-17 22:55:18,369 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:18,370 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:55:19,372 - INFO - Processing description 86/169
+2025-02-17 22:55:20,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:20,564 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:55:21,568 - INFO - Processing description 87/169
+2025-02-17 22:55:22,731 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:22,733 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:55:23,737 - INFO - Processing description 88/169
+2025-02-17 22:55:24,687 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:24,758 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:55:25,763 - INFO - Processing description 89/169
+2025-02-17 22:55:27,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:27,062 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:55:28,065 - INFO - Processing description 90/169
+2025-02-17 22:55:29,331 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:29,333 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:55:30,335 - INFO - Processing description 91/169
+2025-02-17 22:55:31,481 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:31,489 - INFO - Successfully categorized as: Other (confidence: 0.95)
+2025-02-17 22:55:32,493 - INFO - Processing description 92/169
+2025-02-17 22:55:33,422 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:33,435 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:55:34,441 - INFO - Processing description 93/169
+2025-02-17 22:55:35,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:35,286 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:55:36,291 - INFO - Processing description 94/169
+2025-02-17 22:55:37,170 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:37,172 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:55:38,176 - INFO - Processing description 95/169
+2025-02-17 22:55:39,518 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:39,522 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:55:40,527 - INFO - Processing description 96/169
+2025-02-17 22:55:41,739 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:41,741 - INFO - Successfully categorized as: Other (confidence: 0.9)
+2025-02-17 22:55:42,746 - INFO - Processing description 97/169
+2025-02-17 22:55:43,540 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:43,543 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:55:44,547 - INFO - Processing description 98/169
+2025-02-17 22:55:45,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:45,936 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:55:46,940 - INFO - Processing description 99/169
+2025-02-17 22:55:48,070 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:48,072 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:55:49,077 - INFO - Processing description 100/169
+2025-02-17 22:55:50,173 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:50,175 - INFO - Successfully categorized as: NFT (confidence: 0.95)
+2025-02-17 22:55:51,180 - INFO - Processing description 101/169
+2025-02-17 22:55:52,175 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:52,177 - INFO - Successfully categorized as: DeFi (confidence: 0.9)
+2025-02-17 22:55:53,179 - INFO - Processing description 102/169
+2025-02-17 22:55:54,348 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:54,350 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:55:55,355 - INFO - Processing description 103/169
+2025-02-17 22:55:56,612 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:56,614 - INFO - Successfully categorized as: Social (confidence: 0.95)
+2025-02-17 22:55:57,618 - INFO - Processing description 104/169
+2025-02-17 22:55:58,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:55:58,908 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:55:59,913 - INFO - Processing description 105/169
+2025-02-17 22:56:00,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:00,930 - INFO - Successfully categorized as: Infrastructure (confidence: 0.85)
+2025-02-17 22:56:01,932 - INFO - Processing description 106/169
+2025-02-17 22:56:03,191 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:03,203 - INFO - Successfully categorized as: Security (confidence: 0.95)
+2025-02-17 22:56:04,208 - INFO - Processing description 107/169
+2025-02-17 22:56:05,136 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:05,140 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:56:06,146 - INFO - Processing description 108/169
+2025-02-17 22:56:07,689 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:07,692 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:56:08,698 - INFO - Processing description 109/169
+2025-02-17 22:56:09,709 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:09,712 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:56:10,716 - INFO - Processing description 110/169
+2025-02-17 22:56:11,756 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:11,758 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:56:12,764 - INFO - Processing description 111/169
+2025-02-17 22:56:14,447 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:14,452 - INFO - Successfully categorized as: DeFi (confidence: 0.85)
+2025-02-17 22:56:15,454 - INFO - Processing description 112/169
+2025-02-17 22:56:16,533 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:16,536 - INFO - Successfully categorized as: DeFi (confidence: 0.85)
+2025-02-17 22:56:17,538 - INFO - Processing description 113/169
+2025-02-17 22:56:18,631 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:18,636 - INFO - Successfully categorized as: Social (confidence: 0.95)
+2025-02-17 22:56:19,637 - INFO - Processing description 114/169
+2025-02-17 22:56:20,793 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:20,797 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:56:21,800 - INFO - Processing description 115/169
+2025-02-17 22:56:22,696 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:22,698 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:56:23,704 - INFO - Processing description 116/169
+2025-02-17 22:56:24,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:24,918 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:56:25,918 - INFO - Processing description 117/169
+2025-02-17 22:56:27,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:27,181 - INFO - Successfully categorized as: Infrastructure (confidence: 0.85)
+2025-02-17 22:56:28,186 - INFO - Processing description 118/169
+2025-02-17 22:56:29,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:29,283 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:56:30,286 - INFO - Processing description 119/169
+2025-02-17 22:56:31,355 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:31,357 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:56:32,362 - INFO - Processing description 120/169
+2025-02-17 22:56:33,444 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:33,446 - INFO - Successfully categorized as: DeFi (confidence: 0.85)
+2025-02-17 22:56:34,451 - INFO - Processing description 121/169
+2025-02-17 22:56:35,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:35,421 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:56:36,423 - INFO - Processing description 122/169
+2025-02-17 22:56:37,485 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:37,488 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:56:38,493 - INFO - Processing description 123/169
+2025-02-17 22:56:39,707 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:39,722 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:56:40,728 - INFO - Processing description 124/169
+2025-02-17 22:56:43,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:43,094 - INFO - Successfully categorized as: DeFi (confidence: 0.85)
+2025-02-17 22:56:44,097 - INFO - Processing description 125/169
+2025-02-17 22:56:45,428 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:45,430 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:56:46,436 - INFO - Processing description 126/169
+2025-02-17 22:56:47,623 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:47,625 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:56:48,630 - INFO - Processing description 127/169
+2025-02-17 22:56:49,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:49,366 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:56:50,371 - INFO - Processing description 128/169
+2025-02-17 22:56:51,457 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:51,475 - INFO - Successfully categorized as: Education (confidence: 0.95)
+2025-02-17 22:56:52,478 - INFO - Processing description 129/169
+2025-02-17 22:56:53,547 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:53,550 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:56:54,554 - INFO - Processing description 130/169
+2025-02-17 22:56:55,839 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:55,844 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:56:56,846 - INFO - Processing description 131/169
+2025-02-17 22:56:58,366 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:56:58,374 - INFO - Successfully categorized as: NFT (confidence: 0.95)
+2025-02-17 22:56:59,377 - INFO - Processing description 132/169
+2025-02-17 22:57:00,213 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:00,215 - INFO - Successfully categorized as: NFT (confidence: 0.95)
+2025-02-17 22:57:01,220 - INFO - Processing description 133/169
+2025-02-17 22:57:02,379 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:02,382 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:57:03,387 - INFO - Processing description 134/169
+2025-02-17 22:57:04,409 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:04,411 - INFO - Successfully categorized as: Infrastructure (confidence: 0.85)
+2025-02-17 22:57:05,417 - INFO - Processing description 135/169
+2025-02-17 22:57:06,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:06,423 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:57:07,428 - INFO - Processing description 136/169
+2025-02-17 22:57:08,547 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:08,549 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:57:09,553 - INFO - Processing description 137/169
+2025-02-17 22:57:10,556 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:10,560 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:57:11,565 - INFO - Processing description 138/169
+2025-02-17 22:57:12,494 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:12,515 - INFO - Successfully categorized as: DeFi (confidence: 0.6)
+2025-02-17 22:57:13,517 - INFO - Processing description 139/169
+2025-02-17 22:57:14,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:14,601 - INFO - Successfully categorized as: Infrastructure (confidence: 0.85)
+2025-02-17 22:57:15,605 - INFO - Processing description 140/169
+2025-02-17 22:57:16,649 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:16,655 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:57:17,659 - INFO - Processing description 141/169
+2025-02-17 22:57:18,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:18,447 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:57:19,453 - INFO - Processing description 142/169
+2025-02-17 22:57:20,370 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:20,372 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:57:21,373 - INFO - Processing description 143/169
+2025-02-17 22:57:22,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:22,297 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:57:23,302 - INFO - Processing description 144/169
+2025-02-17 22:57:24,885 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:24,887 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:57:25,892 - INFO - Processing description 145/169
+2025-02-17 22:57:27,556 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:27,562 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:57:28,567 - INFO - Processing description 146/169
+2025-02-17 22:57:29,570 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:29,573 - INFO - Successfully categorized as: Gaming (confidence: 0.95)
+2025-02-17 22:57:30,575 - INFO - Processing description 147/169
+2025-02-17 22:57:31,716 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:31,720 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:57:32,725 - INFO - Processing description 148/169
+2025-02-17 22:57:33,882 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:33,885 - INFO - Successfully categorized as: Other (confidence: 0.95)
+2025-02-17 22:57:34,890 - INFO - Processing description 149/169
+2025-02-17 22:57:36,266 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:36,274 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:57:37,279 - INFO - Processing description 150/169
+2025-02-17 22:57:38,836 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:38,843 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:57:39,846 - INFO - Processing description 151/169
+2025-02-17 22:57:41,052 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:41,056 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:57:42,061 - INFO - Processing description 152/169
+2025-02-17 22:57:42,845 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:42,847 - INFO - Successfully categorized as: Other (confidence: 0.9)
+2025-02-17 22:57:43,854 - INFO - Processing description 153/169
+2025-02-17 22:57:45,321 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:45,329 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:57:46,332 - INFO - Processing description 154/169
+2025-02-17 22:57:47,439 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:47,442 - INFO - Successfully categorized as: Other (confidence: 0.95)
+2025-02-17 22:57:48,445 - INFO - Processing description 155/169
+2025-02-17 22:57:49,882 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:49,885 - INFO - Successfully categorized as: Social (confidence: 0.85)
+2025-02-17 22:57:50,887 - INFO - Processing description 156/169
+2025-02-17 22:57:51,950 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:51,952 - INFO - Successfully categorized as: Other (confidence: 0.95)
+2025-02-17 22:57:52,956 - INFO - Processing description 157/169
+2025-02-17 22:57:54,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:54,687 - ERROR - Error processing description: list indices must be integers or slices, not str
+Traceback (most recent call last):
+  File "/Users/jnaulty/github/sui-ai-agent-typhoon-hackathon/tooling/data-hackathon/analyze_description.py", line 61, in analyze_description
+    logging.info(f"Successfully categorized as: {result['category']} (confidence: {result['confidence']})")
+                                                 ~~~~~~^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2025-02-17 22:57:55,693 - INFO - Processing description 158/169
+2025-02-17 22:57:56,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:56,455 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:57:57,458 - INFO - Processing description 159/169
+2025-02-17 22:57:58,574 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:57:58,576 - INFO - Successfully categorized as: Gaming (confidence: 0.98)
+2025-02-17 22:57:59,580 - INFO - Processing description 160/169
+2025-02-17 22:58:01,297 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:01,300 - INFO - Successfully categorized as: DeFi (confidence: 0.85)
+2025-02-17 22:58:02,305 - INFO - Processing description 161/169
+2025-02-17 22:58:03,273 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:03,279 - INFO - Successfully categorized as: Gaming (confidence: 0.85)
+2025-02-17 22:58:04,280 - INFO - Processing description 162/169
+2025-02-17 22:58:05,770 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:05,784 - INFO - Successfully categorized as: NFT (confidence: 0.85)
+2025-02-17 22:58:06,789 - INFO - Processing description 163/169
+2025-02-17 22:58:07,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:07,601 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:58:08,603 - INFO - Processing description 164/169
+2025-02-17 22:58:09,326 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:09,331 - INFO - Successfully categorized as: Infrastructure (confidence: 0.95)
+2025-02-17 22:58:10,337 - INFO - Processing description 165/169
+2025-02-17 22:58:11,834 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:11,859 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:58:12,864 - INFO - Processing description 166/169
+2025-02-17 22:58:13,827 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:13,829 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:58:14,833 - INFO - Processing description 167/169
+2025-02-17 22:58:16,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:16,100 - INFO - Successfully categorized as: Education (confidence: 0.85)
+2025-02-17 22:58:17,105 - INFO - Processing description 168/169
+2025-02-17 22:58:17,809 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:17,811 - INFO - Successfully categorized as: DeFi (confidence: 0.95)
+2025-02-17 22:58:18,812 - INFO - Processing description 169/169
+2025-02-17 22:58:19,863 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-17 22:58:19,872 - INFO - Successfully categorized as: Infrastructure (confidence: 0.9)
+2025-02-17 22:58:19,883 - INFO - Saved results to analysis_results.csv
+2025-02-17 22:58:19,884 - INFO - Saved category summary to category_summary.json
+2025-02-17 22:58:19,884 - INFO - Creating visualizations
+2025-02-17 22:58:20,051 - INFO - Saved category distribution plot
+2025-02-17 22:58:20,101 - INFO - Saved confidence distribution plot
+2025-02-17 22:58:20,101 - INFO - Analysis complete
+2025-02-17 22:58:20,101 - INFO - Category Distribution:
+2025-02-17 22:58:20,101 - INFO -   Infrastructure: 52
+2025-02-17 22:58:20,101 - INFO -   DeFi: 51
+2025-02-17 22:58:20,101 - INFO -   Gaming: 19
+2025-02-17 22:58:20,101 - INFO -   Social: 14
+2025-02-17 22:58:20,101 - INFO -   Other: 13
+2025-02-17 22:58:20,101 - INFO -   NFT: 10
+2025-02-17 22:58:20,101 - INFO -   Security: 6
+2025-02-17 22:58:20,101 - INFO -   Education: 3
+2025-02-17 22:58:20,101 - INFO -   ERROR: 1
+2025-02-17 22:58:20,101 - INFO - Log file saved to: logs/analysis_20250217_225200.log

@@ -1,0 +1,16 @@
+2025-02-17 23:18:10,495 - INFO - Logging initialized
+2025-02-17 23:18:10,495 - INFO - Starting analysis
+2025-02-17 23:18:10,495 - INFO - Loaded existing category summary
+2025-02-17 23:18:10,495 - INFO - Found existing analysis results
+2025-02-17 23:18:10,495 - INFO - Category Distribution for Qualified Projects:
+2025-02-17 23:18:10,495 - INFO -   DeFi: 38
+2025-02-17 23:18:10,495 - INFO -   Infrastructure: 36
+2025-02-17 23:18:10,495 - INFO -   Gaming: 15
+2025-02-17 23:18:10,495 - INFO -   Other: 9
+2025-02-17 23:18:10,495 - INFO -   NFT: 9
+2025-02-17 23:18:10,495 - INFO -   Social: 7
+2025-02-17 23:18:10,495 - INFO -   Security: 3
+2025-02-17 23:18:10,495 - INFO -   Education: 2
+2025-02-17 23:18:10,496 - INFO - Creating visualizations
+2025-02-17 23:18:10,673 - INFO - Saved all visualizations
+2025-02-17 23:18:10,673 - INFO - Created visualizations from existing data
